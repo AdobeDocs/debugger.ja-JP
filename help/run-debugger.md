@@ -23,7 +23,7 @@ Adobe Experience cloudデバッガーの概要画面が表示されます。
 
 この画面には、ページのサムネールと、ページのURLおよびタイトルが表示されます。 また、各Adobe Experience cloudソリューションに関する情報も表示されます。 表示される情報はソリューションによって異なりますが、通常、ソリューションライブラリとバージョン（「AppMeasurement v2.9」など）、アカウント識別子（AnalyticsレポートスイートID、Targetクライアントコード、Audience ManagerパートナーIDなど）などの情報が含まれます。
 
-ウィンドウ上部のタブの横に表示される青色の数字は、行われたサーバーコールの数を示します。 これらをゼロにリセットするには、各タブで「すべて **[!UICONTROL のリクエストをクリア]** 」をクリックします。
+ウィンドウ上部のタブの横に表示される青色の数字は、行われたサーバーコールの数を示します。 これらをゼロにリセットするには、各タブ内 **[!UICONTROL Clear All Requests]** をクリックします。
 
 例えば、次の図はAdobe targetに関する情報を示しています。 以下に示すアクティビティの詳細を認証なしで公開するには、コードマネージャーまたはタグマネージャーにデバッグイベントリスナーを実装し、Target UIで必要な応答トークンを [有効にする](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) 必要があります。
 
@@ -31,7 +31,7 @@ Adobe Experience cloudデバッガーの概要画面が表示されます。
 
 ## Auditorでの監査の実行 {#section-82bc57440406461ebf27a16855b71655}
 
-Adobe Auditorを使用して、ページに対して一連の監査を実行できます。 Auditorを実行するには、上部のメニ **[!UICONTROL ューで]** 「Auditor」をクリックし、「今すぐ監査ページ」 **[!UICONTROL をクリックします]**。 Adobe Auditorを開くには、「今すぐ複 **[!UICONTROL 数ページ監査を実行」をクリックします]**。
+Adobe Auditorを使用して、ページに対して一連の監査を実行できます。 Auditorを実行するには、上部のメニ **[!UICONTROL Auditor]** ューでをクリックし、をクリックしま **[!UICONTROL Audit Page Now]**&#x200B;す。 Adobe Auditorを開くには、をクリックしま **[!UICONTROL Run Multi-Page Audit Now]**&#x200B;す。
 
 ## デバッガーに表示される情報 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
