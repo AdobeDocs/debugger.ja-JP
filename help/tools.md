@@ -17,7 +17,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ![](assets/tools.jpg)
 
-LaunchまたはDTMがインストールされていないページでは、LaunchまたはDTMを動的に挿入して、何かをテストできます。 「埋め込みコ **[!UICONTROL ード]** 」アイコンをクリックし、埋め込みコ [ードを入力して](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) 「保存」をクリ **[!UICONTROL ックします]**。
+LaunchまたはDTMがインストールされていないページでは、LaunchまたはDTMを動的に挿入して、何かをテストできます。 アイコンをク **[!UICONTROL Embed Code]** リックし、埋め込みコードを [入力して](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) 、をクリックしま **[!UICONTROL Save]**&#x200B;す。
 
 ![](assets/tools-embedcode.jpg)
 
