@@ -6,7 +6,7 @@ seo-title: ネットワーク情報
 title: ネットワーク情報
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
@@ -19,7 +19,7 @@ To view Network information, click **[!UICONTROL Network]**.
 
 ![](assets/network.jpg)
 
-この画面は、Experience cloud訪問者IDや追加のデータIDなどの統合に使用するパラメーターが、統合間で一致していることを確認するのに役立ちます。
+この画面は、複数のヒットでキーと値のペアを比較する場合に便利です。 Experience cloud訪問者IDや追加のデータIDなど、統合に使用するパラメーターが、統合間で一致していることを確認できます。
 
 >[!NOTE]
 >
