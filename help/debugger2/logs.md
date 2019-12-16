@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: ログ
 title: ログ
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4e96582174d2e36c4ad37f0f582b04d3bb199e1
 
 ---
@@ -17,21 +17,21 @@ source-git-commit: b4e96582174d2e36c4ad37f0f582b04d3bb199e1
 
 ![](assets/logs.jpg)
 
-ログ画面には、4つの列の情報が表示されます。
+ログ画面には、情報が 4 つの列に表示されます。
 
-**[!UICONTROL Solutions]** :ログに記録された項目の影響を受けるExperience cloudソリューションのアイコンを表示します。 テキストの説明のアイコンの上にカーソルを置きます。
+**[!UICONTROL Solutions]：**&#x200B;ログに記録された項目の影響を受ける Experience Cloud ソリューションのアイコンを表示します。アイコンにマウスポインターを重ねると、テキストの説明が表示されます。
 
-**[!UICONTROL Occurred at]** :セッション中にログに記録された問題がいつ発生したかを表示します。
+**[!UICONTROL Occurred at]：**&#x200B;セッション中、ログに記録された問題がいつ発生したかを表示します。
 
-**[!UICONTROL Log level]** :問題の重大度を示します。 重大度は、次のいずれかのレベルです。
+**[!UICONTROL Log level]：**&#x200B;問題の重大度を表示します。重大度は、次のレベルのいずれかです。
 
 * ログ
 * 情報
 * 警告
 * エラー
 
-**[!UICONTROL Log message]** :問題について説明します。
+**[!UICONTROL Log message]：**&#x200B;問題について説明します。
 
-一部のログメッセージには「コードを表示」オプションが含まれています。 Click **[!UICONTROL Show Code]** to view the conditional code that determines whether a rule should fire.
+一部のログメッセージには「コードを表示」オプションが含まれています。**[!UICONTROL Show Code]**&#x200B;をクリックして、ルールを実行するかどうかを判定する条件付きコードを表示します。
 
-ログを消去するには、をクリックしま **[!UICONTROL Remove Logs]**&#x200B;す。
+ログを消去するには、**[!UICONTROL Remove Logs]** をクリックします。
