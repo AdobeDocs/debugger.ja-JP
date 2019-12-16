@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: ツール
 title: ツール
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 ---
@@ -17,7 +17,7 @@ source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 ![](assets/tools.jpg)
 
-任意のページで Launch または DTM を動的に挿入して、Launch または DTM がインストールされていないページをテストできます。Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) and click **[!UICONTROL Save]**.
+任意のページで Launch または DTM を動的に挿入して、Launch または DTM がインストールされていないページをテストできます。**[!UICONTROL Embed Code]** アイコンをクリックして、[埋め込みコード](https://experiencecloud.adobe.com/resources/help/ja_JP/dtm/deployment.html)を入力し、**[!UICONTROL Save]** をクリックします。
 
 ![](assets/tools-embedcode.jpg)
 
