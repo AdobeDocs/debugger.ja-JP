@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: ネットワーク情報
 title: ネットワーク情報
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
@@ -13,25 +13,25 @@ source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 # ネットワーク情報 {#network-information}
 
-To view Network information, click **[!UICONTROL Network]**.
+ネットワーク情報を表示するには、**[!UICONTROL Network]** をクリックします。
 
-ネットワーク画面は、ページでのすべての Adobe Experience Cloud ソリューション呼び出しを集計して、左から右の順に表示します。.標準パラメーターは、わかりやすい名前で自動的にラベル付けされ、同じ役割の共通パラメーターにグループ化されて配置されます。
+ネットワーク画面は、ページでのすべての Adobe Experience Cloud ソリューション呼び出しを集計して、左から右の順に表示します。標準パラメーターは、わかりやすい名前で自動的にラベル付けされ、同じ役割の共通パラメーターにグループ化されて配置されます。
 
 ![](assets/network.jpg)
 
-この画面は、複数のヒットでキーと値のペアを比較する場合に便利です。 Experience cloud訪問者IDや追加のデータIDなど、統合に使用するパラメーターが、統合間で一致していることを確認できます。
+この画面は、複数のヒットをまたいでキーと値のペアを比較する場合に便利です。Experience Cloud 訪問者 ID や追加データ IDなど、統合に使用されたパラメーターが統合内で一貫していることを確認できます。
 
 >[!NOTE]
 >
 >この時点では、ソリューション呼び出し（例えば、Analytics コンテキスト変数、Target カスタムパラメーター、Experience Cloud ID サービス顧客 ID）に渡されたすべてのパラメーターがネットワーク画面に表示されているわけではありません。
 
-情報をソリューションでフィルターするには、左側のナビゲーションのリストから表示するソリューションを選択します。 次の例は、Analyticsのみを表示するようにフィルターされています。
+情報をソリューションでフィルターするには、左側のナビゲーションのリストから表示するソリューションを選択します。次の例は、Analytics のみを表示するようにフィルターされています。
 
 ![](assets/network-analytics.jpg)
 
-すべてのソリューションの表示に戻るには、 **[!UICONTROL Network]**
+すべてのソリューションの表示に戻るには、**[!UICONTROL Network]** をクリックします。
 
-展開されたビューを表示するには、[ネットワーク]ビューの項目をクリックします。 展開された表示ウィンドウから、表示された情報をクリップボードにコピーできます。
+ネットワーク表示の項目をクリックすると、展開されて表示されます。展開された表示ウィンドウから、表示された情報をクリップボードにコピーできます。
 
 ![](assets/network-expand.jpg)
 
@@ -39,6 +39,6 @@ To view Network information, click **[!UICONTROL Network]**.
 
 ![](assets/copy.jpg)-->
 
-リストをクリアするには、をクリックしま **[!UICONTROL Remove Events]**&#x200B;す。
+リストを消去するには、**[!UICONTROL Remove Events]** をクリックします。
 
-この画面に情報を含むExcelファイルをダウンロードするには、をクリックしま **[!UICONTROL Download]**&#x200B;す。
+この画面に関する情報を含む Excel ファイルをダウンロードするには、**[!UICONTROL Download]** をクリックします。
