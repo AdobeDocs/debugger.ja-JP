@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: リリースノート
 title: リリースノート
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -219,7 +219,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
   </tr> 
   <tr> 
    <td colname="col1"> <p>フッターのヘルプリンクの更新 </p> </td> 
-   <td colname="col2"> <p>フッターのヘルプリンクを <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/" format="https" scope="external">https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/</a> に更新しました </p> </td> 
+   <td colname="col2"> <p>フッターのヘルプリンクを <a href="https://docs.adobe.com/content/help/ja-JP/debugger/using/experience-cloud-debugger.html" format="https" scope="external">https://docs.adobe.com/content/help/ja-JP/debugger/using/experience-cloud-debugger.html</a> に更新しました </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -242,7 +242,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>mbox トグル </p> </td> 
+   <td colname="col1"> <p>mboxトグル </p> </td> 
    <td colname="col2"> <p>「Target」タブに mbox トグルが追加されました </p> </td> 
   </tr> 
   <tr> 
