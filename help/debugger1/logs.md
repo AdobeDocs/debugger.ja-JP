@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: ログ
 title: ログ
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -22,4 +22,4 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ![](assets/logs.jpg)
 
-一部の DTM ログ項目のメッセージには、「コードを表示」オプションが含まれています。Click **[!UICONTROL Show Code]** to view the conditional code that determines whether a rule should fire.
+一部の DTM ログ項目のメッセージには、「コードを表示」オプションが含まれています。**[!UICONTROL Show Code]**&#x200B;をクリックして、ルールを実行するかどうかを判定する条件付きコードを表示します。
