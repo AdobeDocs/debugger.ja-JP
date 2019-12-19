@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: ネットワーク情報
 title: ネットワーク情報
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -13,9 +13,9 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 # ネットワーク情報 {#network-information}
 
-To view Network information, click **[!UICONTROL Network]**.
+ネットワーク情報を表示するには、**[!UICONTROL Network]** をクリックします。
 
-ネットワーク画面は、ページでのすべての Adobe Experience Cloud ソリューション呼び出しを集計して、左から右の順に表示します。.標準パラメーターは、わかりやすい名前で自動的にラベル付けされ、同じ役割の共通パラメーターにグループ化されて配置されます。
+ネットワーク画面は、ページでのすべての Adobe Experience Cloud ソリューション呼び出しを集計して、左から右の順に表示します。標準パラメーターは、わかりやすい名前で自動的にラベル付けされ、同じ役割の共通パラメーターにグループ化されて配置されます。
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ To view Network information, click **[!UICONTROL Network]**.
 >
 >この時点では、ソリューション呼び出し（例えば、Analytics コンテキスト変数、Target カスタムパラメーター、Experience Cloud ID サービス顧客 ID）に渡されたすべてのパラメーターがネットワーク画面に表示されているわけではありません。
 
-To view all information, select **[!UICONTROL All]**.
+すべての情報を表示するには、**[!UICONTROL All]**&#x200B;を選択します。
 
 また、ソリューションで情報をフィルタリングすることもできます。表示するソリューションを選択します。同時に複数のソリューションを表示できます。選択したソリューションフィルターがハイライト表示されます。
 
