@@ -6,7 +6,7 @@ seo-title: Experience Cloud Debugger のインストール
 title: Experience Cloud Debugger のインストール
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3b2fd709419b40e0503baef9a39128ddbf4875b3
 
 ---
 
@@ -25,8 +25,6 @@ Adobe Experience Platform Debuggerをダウンロードしてインストール�
 Chrome拡張機能またはFirefoxアドオンをインストールすると、拡張機能バーにアイコンが追加されます。
 
 ![](assets/start-icon.jpg)
-
-<!-->>[!VIDEO](https://video.tv.adobe.com/v/23114t2/)-->
 
 アイコンをクリックして Debugger を起動します。
 
