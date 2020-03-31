@@ -5,13 +5,17 @@ seo-description: 'null'
 seo-title: ネットワーク情報
 title: ネットワーク情報
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# ネットワーク情報 {#network-information}
+# ネットワーク{#network}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0は現在ベータ版です。 ドキュメントと機能は変更される場合があります。
 
 ネットワーク情報を表示するには、**[!UICONTROL Network]** をクリックします。
 
@@ -25,7 +29,7 @@ source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 >
 >この時点では、ソリューション呼び出し（例えば、Analytics コンテキスト変数、Target カスタムパラメーター、Experience Cloud ID サービス顧客 ID）に渡されたすべてのパラメーターがネットワーク画面に表示されているわけではありません。
 
-情報をソリューションでフィルターするには、左側のナビゲーションのリストから表示するソリューションを選択します。次の例は、Analytics のみを表示するようにフィルターされています。
+ソリューション別に情報を変更するには、左側のナビゲーションのリストから表示するソリューションを選択します。 次の例は、Analytics のみを表示するようにフィルターされています。
 
 ![](assets/network-analytics.jpg)
 
