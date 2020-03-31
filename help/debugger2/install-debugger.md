@@ -5,20 +5,24 @@ seo-description: 'null'
 seo-title: Experience Cloud Debugger のインストール
 title: Experience Cloud Debugger のインストール
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# Experience Cloud Debugger のインストール {#install-experience-cloud-debugger}
+# Adobe Experience Platform Debuggerのインストール{#install-experience-platform-debugger}
 
-Adobe Experience Cloud Debugger 拡張機能をダウンロードしてインストールします。
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0は現在ベータ版です。 ドキュメントと機能は変更される場合があります。
+
+Adobe Experience Platform Debuggerをダウンロードしてインストールします。
 
 * **Chrome：**[Chrome 拡張機能ページ](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)から
-* **Firefox：**[Firefox アドオンページ](https://addons.mozilla.org/ja/firefox/addon/adobe-experience-platform-dbg/)から
+* **Firefox：**[Firefox アドオンページ](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)から
 
-拡張機能をインストールすると、拡張機能バーにアイコンが追加されます。
+Chrome拡張機能またはFirefoxアドオンをインストールすると、拡張機能バーにアイコンが追加されます。
 
 ![](assets/start-icon.jpg)
 
@@ -26,10 +30,3 @@ Adobe Experience Cloud Debugger 拡張機能をダウンロードしてインス
 
 アイコンをクリックして Debugger を起動します。
 
-Debugger が開いたら、**** に移動して「**ダークモード**」（デフォルト）または「**ライトモード**」を選択することで、好みの外観を選択できます。
-
-サイト上のページを変更すると、Debugger ウィンドウが更新され、そのページの情報が表示されます。接続しているページの名前が画面の下部に表示されます。Debugger を 1 つのページでロックしたままにするには、Debugger ウィンドウの右下隅で **[!UICONTROL Lock]** をクリックします。
-
-![](assets/lock.jpg)
-
-これは、ページのデバッグ中に、ドキュメントを読んだり、別のページの情報を表示したりする場合に役立ちます。
