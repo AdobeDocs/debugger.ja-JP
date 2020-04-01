@@ -5,8 +5,8 @@ seo-description: Adobe Debugger でのソリューションタブの使用
 seo-title: Adobe Debugger のソリューションタブ
 title: ソリューションタブ
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -17,7 +17,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
-「Analytics」タブは、[Analytics](https://experiencecloud.adobe.com/resources/help/ja_JP/reference/) 実装に関する情報を提供します。
+「Analytics」タブは、[Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html) 実装に関する情報を提供します。
 
 **ヒット数**
 
@@ -33,7 +33,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ![](assets/analytics-hits-expand.jpg)
 
-この画面には、Debugger が開かれたか、リクエストがクリアされてからのすべてのリクエストが表示されます。デフォルトパラメーターは、わかりやすい名前に自動的にマッピングされます。「Analytics をリンク」機能（後述）を使用して認証する場合、[Prop および eVar](https://experiencecloud.adobe.com/resources/help/ja_JP/sc/implement/props_eVars.html) 変数は、カスタムのわかりやすい名前（例えば、「prop1」が「ユーザータイプ」として表示される）にマッピングできます。リクエストは、シーケンスに、左から右に表示されます。
+この画面には、Debugger が開かれたか、リクエストがクリアされてからのすべてのリクエストが表示されます。デフォルトパラメーターは、わかりやすい名前に自動的にマッピングされます。「Analytics をリンク」機能（後述）を使用して認証する場合、[Prop および eVar](https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/evar.html) 変数は、カスタムのわかりやすい名前（例えば、「prop1」が「ユーザータイプ」として表示される）にマッピングできます。リクエストは、シーケンスに、左から右に表示されます。
 
 **ダウンロード：**&#x200B;レポートスイートに対しておこなわれたすべてのリクエストを Excel スプレッドシートとして保存します。
 
@@ -59,7 +59,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-「Target」タブを使用して、[Target](https://docs.adobe.com/content/help/ja-JP/target/using/target-home.html) リクエストまたは [Mbox Trace](https://docs.adobe.com/content/help/ja-JP/target/using/activities/troubleshoot-activities/content-trouble.html) 応答の詳細を表示します。
+「Target」タブを使用して、[Target](https://docs.adobe.com/content/help/en/target/using/target-home.html) リクエストまたは [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) 応答の詳細を表示します。
 
 **[!UICONTROL Requests]**&#x200B;をクリックし、環境を展開して Target に関する情報を表示します。
 
@@ -67,33 +67,33 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 **[!UICONTROL Clear All Requests]**&#x200B;をクリックして、現在表示されているリクエストを削除します。作成したリクエスト量に応じて、より多くのリクエストが表示されます。
 
-また、Target フィルターを使用して、[Target デバッグ目的で Mbox Trace を有効にする](https://docs.adobe.com/content/help/ja-JP/target/using/activities/troubleshoot-activities/content-trouble.html)こともできます。
+また、Target フィルターを使用して、[Target デバッグ目的で Mbox Trace を有効にする](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)こともできます。
 
 Mbox Trace を有効にするには、開いている Chrome タブで Experience Cloud への認証をおこなう必要があります。有効にすると、Adobe ID ユーザー名が表示されます。ユーザー名を展開して、アクセス権を持つ Experience Cloud 組織に関連付けられた Target クライアントコードを表示します。Mbox Trace を有効にするクライアントコードをクリックして、緑にチェックマークが表示されていることを確認します。Mbox Trace 情報を持つすべての Target リクエストが、クライアントコードでグループ化されて表示されます。Mbox Trace 情報を調査するには、リクエストを展開してタブを確認します。
 
-* [アクティビティ](https://docs.adobe.com/content/help/ja-JP/target/using/activities/activities.html) 「アクティビティ」タブには、アクティビティに適合するかどうかにかかわらず、Target リクエスト名に関連付けられたすべてのアクティビティが表示されます。「一致するアクティビティ」は、適合し、そのオファーが応答で配信されたアクティビティです。アクティビティ名を展開して、現在のエクスペリエンスや、そのアクティビティに対してどのオーディエンスおよびターゲット条件が適合するかを確認します。「評価されたアクティビティ」は、適合しているかどうかにかかわらず、評価されたすべてのアクティビティです。「評価済み」だが「一致」しなかったアクティビティに適合しない原因をトラブルシューティングするには、アクティビティ名を展開して、「一致しないオーディエンス」セクションを確認します。
+* [アクティビティ](https://docs.adobe.com/content/help/en/target/using/activities/activities.html) 「アクティビティ」タブには、アクティビティに適合するかどうかにかかわらず、Target リクエスト名に関連付けられたすべてのアクティビティが表示されます。「一致するアクティビティ」は、適合し、そのオファーが応答で配信されたアクティビティです。アクティビティ名を展開して、現在のエクスペリエンスや、そのアクティビティに対してどのオーディエンスおよびターゲット条件が適合するかを確認します。「評価されたアクティビティ」は、適合しているかどうかにかかわらず、評価されたすべてのアクティビティです。「評価済み」だが「一致」しなかったアクティビティに適合しない原因をトラブルシューティングするには、アクティビティ名を展開して、「一致しないオーディエンス」セクションを確認します。
 
 * リクエスト
 
-   [Mbox Trace](https://docs.adobe.com/content/help/ja-JP/target/using/activities/troubleshoot-activities/content-trouble.html) のリクエストタブは、メインのリクエストタブに似ています。リクエストヘッダーに加えて、Target リクエストによって渡されたすべてのパラメーターを表示できます。
+   [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) のリクエストタブは、メインのリクエストタブに似ています。リクエストヘッダーに加えて、Target リクエストによって渡されたすべてのパラメーターを表示できます。
 * プロファイル
 
-   「プロファイルスナップショット」セクションを展開して、訪問者として Target プロファイルデータベースに格納されている[プロファイル情報](https://docs.adobe.com/content/help/ja-JP/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html)を確認します。すべての in-mbox およびスクリプトプロファイルが、一部のシステムプロファイルと共に、ここに表示されます。ステータス列には、プロファイルシステムを含むリクエストの前後の値と共に、このリクエストの範囲でどのプロファイルが変更したかを表示します。
+   「プロファイルスナップショット」セクションを展開して、訪問者として Target プロファイルデータベースに格納されている[プロファイル情報](https://docs.adobe.com/content/help/en/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html)を確認します。すべての in-mbox およびスクリプトプロファイルが、一部のシステムプロファイルと共に、ここに表示されます。ステータス列には、プロファイルシステムを含むリクエストの前後の値と共に、このリクエストの範囲でどのプロファイルが変更したかを表示します。
 * Audience Manager
 
-   「Audience Manager」タブの「segmentIds」および「cachedSegmentIds」セクションは、Experience Cloud から Target に共有され、適合した[オーディエンス](https://docs.adobe.com/content/help/ja-JP/target/using/audiences/target.html)の ID を表示します。これらは、Audience Manager、Analytics または People コアサービスの Audience Builder で作成されたオーディエンスである可能性があります。これらの ID は、オーディエンス名を見つけるために Audience Manager ユーザーインターフェイスで検索される可能性があります。
+   「Audience Manager」タブの「segmentIds」および「cachedSegmentIds」セクションは、Experience Cloud から Target に共有され、適合した[オーディエンス](https://docs.adobe.com/content/help/en/target/using/audiences/target.html)の ID を表示します。これらは、Audience Manager、Analytics または People コアサービスの Audience Builder で作成されたオーディエンスである可能性があります。これらの ID は、オーディエンス名を見つけるために Audience Manager ユーザーインターフェイスで検索される可能性があります。
 
 以下のビデオは、一般的な Target 機能を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 以下のビデオは、Mbox Trace を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
-「[Audience Manager](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/)」タブを使用して、[イベント](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html)の詳細を表示します。組織をクリックして展開し、情報を表示します。
+「[Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)」タブを使用して、[イベント](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html)の詳細を表示します。組織をクリックして展開し、情報を表示します。
 
 ![](assets/audience-manager.jpg)
 
@@ -105,7 +105,7 @@ ID 同期は、受信の非同期データ転送プロセスの最初のステ�
 
 ![](assets/aam-idsync.jpg)
 
-詳しくは、Audience Manager 製品ドキュメントの[受信データ転送のための ID 同期](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.translate.html)を参照してください。
+詳しくは、Audience Manager 製品ドキュメントの[受信データ転送のための ID 同期](https://docs.adobe.com/content/help/en/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html)を参照してください。
 
 ## Advertising Cloud {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
@@ -117,7 +117,7 @@ ID 同期は、受信の非同期データ転送プロセスの最初のステ�
 
 ## Experience Cloud ID サービス {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-「Experience Cloud ID サービス」タブを使用して、[Experience Cloud ID サービス](https://experiencecloud.adobe.com/resources/help/ja_JP/mcvid/) リクエストを表示します。
+「Experience Cloud ID サービス」タブを使用して、[Experience Cloud ID サービス](https://docs.adobe.com/content/help/en/id-service/using/home.html)リクエストを表示します。
 
 **[!UICONTROL Requests]**&#x200B;をクリックし、環境を展開して Experience Cloud ID サービスに関する情報を表示します。
 
