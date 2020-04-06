@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: ツール
 title: ツール
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
@@ -15,13 +15,13 @@ source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 > [!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0は現在ベータ版です。 ドキュメントと機能は変更される場合があります。
+> Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
 ツール画面では、インストールしたソリューション用の様々なツールを有効または無効にできます。例えば、Target のコンソールデバッグステートメントをオンにしたり、DTM ステージング用ライブラリを使用したりできます。これらのツールは、Target および DTM がページにインストールされている場合にのみ使用できます。
 
 ![](assets/tools.jpg)
 
-任意のページで Launch または DTM を動的に挿入して、Launch または DTM がインストールされていないページをテストできます。**[!UICONTROL Embed Code]** アイコンをクリックして、[埋め込みコード](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html)を入力し、**[!UICONTROL Save]** をクリックします。
+任意のページで Launch または DTM を動的に挿入して、Launch または DTM がインストールされていないページをテストできます。**[!UICONTROL Embed Code]** アイコンをクリックして、[埋め込みコード](https://experiencecloud.adobe.com/resources/help/ja_JP/dtm/deployment.html)を入力し、**[!UICONTROL Save]** をクリックします。
 
 ![](assets/tools-embedcode.jpg)
 
@@ -85,4 +85,4 @@ source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 以下のビデオでは、Debugger 拡張機能と Adobe Target の使用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=jpn)
