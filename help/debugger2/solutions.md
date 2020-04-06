@@ -5,17 +5,17 @@ seo-description: Adobe Debugger でのソリューションタブの使用
 seo-title: Adobe Debugger のソリューションタブ
 title: ソリューションタブ
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # ソリューション {#solution-tabs}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
+>Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
 ソリューションをクリックして、特定の Adobe Experience Cloud ソリューションの結果を確認します。
 
