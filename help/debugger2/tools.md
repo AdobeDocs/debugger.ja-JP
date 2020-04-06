@@ -5,17 +5,17 @@ seo-description: 'null'
 seo-title: ツール
 title: ツール
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+translation-type: tm+mt
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # ツール {#tools}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
+>Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
 ツール画面では、インストールしたソリューション用の様々なツールを有効または無効にできます。例えば、Target のコンソールデバッグステートメントをオンにしたり、DTM ステージング用ライブラリを使用したりできます。これらのツールは、Target および DTM がページにインストールされている場合にのみ使用できます。
 
@@ -85,4 +85,4 @@ source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 以下のビデオでは、Debugger 拡張機能と Adobe Target の使用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
