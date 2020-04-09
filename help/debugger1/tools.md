@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: ツール
 title: ツール
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
@@ -17,7 +17,7 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ![](assets/tools.jpg)
 
-任意のページで Launch または DTM を動的に挿入して、Launch または DTM がインストールされていないページをテストできます。**[!UICONTROL Embed Code]** アイコンをクリックして、[埋め込みコード](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html)を入力し、**[!UICONTROL Save]** をクリックします。
+任意のページで Launch または DTM を動的に挿入して、Launch または DTM がインストールされていないページをテストできます。**[!UICONTROL Embed Code]** アイコンをクリックして、[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/dtm/using/client-side/deployment.html)を入力し、**[!UICONTROL Save]** をクリックします。
 
 ![](assets/tools-embedcode.jpg)
 
@@ -81,4 +81,4 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 以下のビデオでは、Debugger 拡張機能と Adobe Target の使用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=jpn)
