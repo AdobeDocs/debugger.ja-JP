@@ -5,7 +5,7 @@ seo-description: Adobe Experience Cloud Debugger 2.0 Chrome および Firefox �
 seo-title: Adobe Experience Platform Debugger Chrome および Firefox 拡張機能
 title: Adobe Experience Platform Debugger 拡張機能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
