@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: ツール
 title: ツール
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -85,4 +85,4 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 以下のビデオでは、Debugger 拡張機能と Adobe Target の使用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=jpn)
