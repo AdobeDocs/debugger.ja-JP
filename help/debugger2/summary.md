@@ -49,7 +49,7 @@ Debugger には、各ソリューションについて以下の情報が表示�
   </tr> 
   <tr> 
    <td colname="col1"> <p>ページ名 </p> </td> 
-   <td colname="col2"> <p>サイトのわかりやすい名前を含む Analytics に送信された <a href="https://docs.adobe.com/content/help/ja-JP/analytics/implementation/vars/page-vars/page-variables.html " format="html" scope="external">pageName</a> 変数。 </p> </td> 
+   <td colname="col2"> <p>サイトのわかりやすい名前を含む Analytics に送信された <a href="https://docs.adobe.com/content/help/ja-JP/analytics/implementation/vars/page-vars/page-variables.html" format="html" scope="external">pageName</a> 変数。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>モジュール </p> </td> 
