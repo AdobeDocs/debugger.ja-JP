@@ -6,9 +6,9 @@ seo-title: サマリ画面
 title: サマリ画面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '940'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ Adobe Experience Platform Debugger サマリ画面が表示されます。
 
 この画面には、各 Adobe Experience Cloud ソリューションに関する情報が表示されます。表示される情報はソリューションによって異なりますが、通常、ソリューションライブラリおよびバージョン（例：「AppMeasurement v2.9」）およびアカウント識別子（Analytics レポートスイート ID、Target クライアントコード、Audience Manager パートナー ID など）の情報が含まれます。
 
-## Debugger に表示される情報 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Debugger に表示される情報
 
 Debugger には、各ソリューションについて以下の情報が表示されます。
 
@@ -86,19 +86,19 @@ Debugger には、各ソリューションについて以下の情報が表示�
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名前 </p> </td> 
-   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external">プロパティ</a>の名前。 </p> </td> 
+   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">プロパティ</a>の名前。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
-   <td colname="col2"> <p><a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external">Turbine</a> のバージョン。 </p> </td> 
+   <td colname="col2"> <p>Turbine のバージョン</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ビルド日 </p> </td> 
-   <td colname="col2"> <p>Launch <a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external">ライブラリ</a>のビルド日。 </p> </td> 
+   <td colname="col2"> <p>Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/libraries.html" format="https" scope="external">ライブラリ</a>のビルド日。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
-   <td colname="col2"> <p>Launch ライブラリによって使用される<a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external">環境</a>。 </p> </td> 
+   <td colname="col2"> <p>Launch ライブラリによって使用される<a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/environments.html" format="https" scope="external">環境</a>。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>拡張機能 </p> </td> 
