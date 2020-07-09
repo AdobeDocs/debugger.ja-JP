@@ -5,8 +5,11 @@ seo-description: Adobe Experience Cloud Debugger 2.0 Chrome および Firefox �
 seo-title: Adobe Experience Platform Debugger Chrome および Firefox 拡張機能
 title: Adobe Experience Platform Debugger 拡張機能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 3a5b0b6d2d7dc18113c5909b878c882cf803bba6
+workflow-type: tm+mt
+source-wordcount: '307'
+ht-degree: 100%
 
 ---
 
@@ -36,3 +39,7 @@ Debugger を使用して、Experience Cloud ソリューションの実装方法
 
 * **Launch：**&#x200B;ページにデプロイされるプロパティ、環境、ビルドを確認します。
 * **Target：**&#x200B;どのアクティビティが適合し、どれが適合しないかとその理由を確認します。
+
+## ビデオチュートリアル
+
+[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
