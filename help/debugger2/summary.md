@@ -5,9 +5,9 @@ seo-description: 'null'
 seo-title: サマリ画面
 title: サマリ画面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '940'
 ht-degree: 100%
 
@@ -44,11 +44,11 @@ Debugger には、各ソリューションについて以下の情報が表示�
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
-   <td colname="col2"> <p>ページ用に定義された <a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/appmeasure_mjs.html" format="html" scope="external"> AppMeasurement</a> バージョン。 </p> </td> 
+   <td colname="col2"> <p>ページ用に定義された <a href="https://docs.adobe.com/content/help/ja-JP/analytics/implementation/js/migrate-from-hcode.html" format="html" scope="external"> AppMeasurement</a> バージョン。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>訪問者のバージョン </p> </td> 
-   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">訪問者 ID</a> ライブラリ.のバージョン。 </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/ja-JP/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">訪問者 ID</a> ライブラリ.のバージョン。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ページ名 </p> </td> 
@@ -67,15 +67,15 @@ Debugger には、各ソリューションについて以下の情報が表示�
  <tbody> 
   <tr> 
    <td colname="col1"> <p>パートナー </p> </td> 
-   <td colname="col2"> <p>DIL インスタンスの<a href="https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/dil-api/dil-instance-methods.translate.html#getpartner" format="html" scope="external">パートナー名。</a> </p> </td> 
+   <td colname="col2"> <p>DIL インスタンスの<a href="https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/dil-api/dil-instance-methods.translate.html#getpartner" format="html" scope="external">パートナー名</a>。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
-   <td colname="col2"> <p>DIL インスタンスの<a href="https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.html#return-version-dil" format="html" scope="external">バージョン番号。</a> </p> </td> 
+   <td colname="col2"> <p>DIL インスタンスの<a href="https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.html#return-version-dil" format="html" scope="external">バージョン番号</a>。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>DIL インスタンスに関連付けられた<a href="https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external">一意のユーザー ID。</a> </p> </td> 
+   <td colname="col2"> <p>DIL インスタンスに関連付けられた<a href="https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external">一意のユーザー ID</a>。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -148,7 +148,7 @@ Debugger には、各ソリューションについて以下の情報が表示�
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
-   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">訪問者 ID</a> ライブラリのバージョン。 </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/ja-JP/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">訪問者 ID</a> ライブラリのバージョン。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
