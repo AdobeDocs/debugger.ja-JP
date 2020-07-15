@@ -5,11 +5,11 @@ seo-description: 'null'
 seo-title: ツール
 title: ツール
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5a84797bda8c29f1e691de418c9837c76a63c17f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '396'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ ht-degree: 95%
   </tr> 
   <tr> 
    <td colname="col1"> <p> Mbox Traces を有効にする </p> </td> 
-   <td colname="col2"> <p>このツールは、詳細情報を Target 応答に追加します。Debugger の <span class="uicontrol">Target／Mbox Trace</span> 画面に表示できます。 </p> <p> このツールを有効にするには、ChromeのいずれかのタブでExperience Cloudにログインしている必要があります。 </p> </td> 
+   <td colname="col2"> <p>このツールは、詳細情報を Target 応答に追加します。Debugger の <span class="uicontrol">Target／Mbox Trace</span> 画面に表示できます。 </p> <p> このツールを有効にするには、いずれかの Chrome タブで Experience Cloud にログインする必要があります。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Target を無効にする </p> </td> 
@@ -88,4 +88,4 @@ ht-degree: 95%
 
 以下のビデオでは、Debugger 拡張機能と Adobe Target の使用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=jpn)
