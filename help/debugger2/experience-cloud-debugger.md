@@ -5,9 +5,9 @@ seo-description: Adobe Experience Cloud Debugger 2.0 Chrome および Firefox �
 seo-title: Adobe Experience Platform Debugger Chrome および Firefox 拡張機能
 title: Adobe Experience Platform Debugger 拡張機能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 64506a22964d68bfec84404b870c8432b0ff374c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '307'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
 1. [Launch](https://docs.adobe.com/content/help/ja-JP/launch/using/overview.html) または [DTM](https://docs.adobe.com/content/help/ja-JP/dtm/using/dtm-home.html) を使用して、ページ上で [Adobe Experience Cloud](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html) ソリューションをアクティベートするコードを挿入します。
 
-1. [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) を使用して実装をテストします。
+1. [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/ja-JP/auditor/using/overview.html) を使用して実装をテストします。
 1. Adobe Experience Platform Debugger を使用して、Auditor によって検出された問題をデバッグしたり、実装に関する他の情報を調べたりします。
 
 上記の手順は、この順番で実行する必要はありませんが、共通のプロセスです。
@@ -42,4 +42,4 @@ Debugger を使用して、Experience Cloud ソリューションの実装方法
 
 ## ビデオチュートリアル
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on&captions=jpn)
