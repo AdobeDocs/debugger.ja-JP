@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debuggerに関するリリースノート
+description: Experience Cloud Debugger のリリースノート
 keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
-seo-description: Experience Cloud Debuggerに関するリリースノート
+seo-description: Experience Cloud Debugger のリリースノート
 seo-title: リリースノート
 title: リリースノート
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '699'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -51,20 +51,20 @@ ht-degree: 98%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Auditor テスト </p> </td> 
-   <td colname="col2"> <p> Debugger に <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">Auditor テスト</a>を追加しました </p> </td> 
+   <td colname="col2"> <p> Debugger に <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">Auditor テスト</a>を追加しました。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Debugger に AAM 応答が表示されるようになりました </p> </td> 
+   <td colname="col2"> <p>Debugger に AAM 応答が表示されるようになりました。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
 ## バグの修正 {#section-f5e9d54e9d2546afb97972cdb6d8a093}
 
-* フッターがページの下部にあるコンテンツを隠していた問題を修正しました
+* フッターがページの下部にあるコンテンツを隠していた問題を修正しました。
 
-* Debugger フッターを更新しました
+* Debugger フッターを更新しました。
 * 古い用語が Target で使用されていた問題を修正しました。
 
 ## バージョン 0.0.809 2019 年 2 月 28 日 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -159,11 +159,11 @@ ht-degree: 98%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>「ツール」タブの Auditor リンク </p> </td> 
-   <td colname="col2"> <p>Debugger から Auditor へのリンクを追加しました </p> </td> 
+   <td colname="col2"> <p>Debugger から Auditor へのリンクを追加しました。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>折りたたまれたタブ </p> </td> 
-   <td colname="col2"> <p>「サマリ」および「ツール」タブで折りたたまれたタブが保持されます </p> </td> 
+   <td colname="col2"> <p>「サマリ」および「ツール」タブで折りたたまれたタブが保持されます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>クリックして表示 </p> </td> 
@@ -174,13 +174,13 @@ ht-degree: 98%
 
 ## 機能強化 {#section-0e7090e3e6a645f085d4553b983ecff8}
 
-* Media Manager の名前を Advertising Cloud に変更しました
-* ソリューションが見つからない場合に、「ネットワーク」タブからソリューションを削除しました
+* Media Manager の名前を Advertising Cloud に変更しました。
+* ソリューションが見つからない場合に、「ネットワーク」タブからソリューションを削除しました。
 
 ## バグの修正 {#section-7c0e4cc4b00a428489bed4a0a27c9501}
 
-* 「セルをクリックして表示」機能が更新されていなかった問題を修正しました
-* AAM ヒットが「AAM」タブに表示されていなかった問題を修正しました
+* 「セルをクリックして表示」機能が更新されていなかった問題を修正しました。
+* AAM ヒットが「AAM」タブに表示されていなかった問題を修正しました。
 
 ## バージョン 0.0.798 2018 年 6 月 14 日 {#topic-3b2d44277f2f4c0295d82724c34bf467}
 
@@ -214,10 +214,10 @@ ht-degree: 98%
    <td colname="col1"> <p>「ログをクリーンアップ」タブ </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_D1EB0BE3A01C494983DAAF625562AC62"> 
-      <li id="li_2696D26320F54A089D3CC99962EC9670">ログにそのソリューションの行項目が見つからない場合に、ソリューションフィルターのソリューションを非表示にします </li> 
-      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">DTM 呼び出しが見つからない場合に、レベルフィルターを非表示にします（DTM にのみ適用されるので） </li> 
-      <li id="li_E2AF179037DC4C63B960013AB1F9AD6A">クリックしても何も起こらない場合にクリックできるように見えないように、レベル列に表示されるアイコンを変更します </li> 
-      <li id="li_3DB6682D6C9040D99F04C688E208CE1F">DTM 行項目の「コードを表示」の書式を標準化します </li> 
+      <li id="li_2696D26320F54A089D3CC99962EC9670">ログにそのソリューションの行項目が見つからない場合に、ソリューションフィルターのソリューションを非表示にします。 </li> 
+      <li id="li_D4586A6AB2AD42BB9F0FA3E7A01382C6">DTM 呼び出しが見つからない場合に、レベルフィルターを非表示にします（DTM にのみ適用されるので）。 </li> 
+      <li id="li_E2AF179037DC4C63B960013AB1F9AD6A">クリックしても何も起こらない場合にクリックできるように見えないように、レベル列に表示されるアイコンを変更します。 </li> 
+      <li id="li_3DB6682D6C9040D99F04C688E208CE1F">DTM 行項目の「コードを表示」の書式を標準化します。 </li> 
      </ul> </p> </td> 
   </tr> 
   <tr> 
@@ -229,8 +229,8 @@ ht-degree: 98%
 
 ## バグの修正 {#section-c292cf7dcb17463bb1928de73bd55121}
 
-* バッジ番号が明確でなかった問題を修正しました
-* お客様がレポートしていた空のサマリの詳細の問題を修正しました
+* バッジ番号が明確でなかった問題を修正しました。
+* お客様がレポートしていた空のサマリの詳細の問題を修正しました。
 
 ## バージョン 0.0.797 2018 年 5 月 25 日 {#topic-51490f4f42aa40eb879663fad9d62916}
 
@@ -246,7 +246,7 @@ ht-degree: 98%
  <tbody> 
   <tr> 
    <td colname="col1"> <p>mbox トグル </p> </td> 
-   <td colname="col2"> <p>「Target」タブに mbox トグルが追加されました </p> </td> 
+   <td colname="col2"> <p>「Target」タブに mbox トグルが追加されました。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>フィルター設定が固定可能に </p> </td> 
