@@ -4,11 +4,11 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;configur
 seo-description: Experience Cloud Debugger の設定方法
 seo-title: Configure Experience Cloud Debugger
 title: Configure Experience Cloud Debugger
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '167'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
+workflow-type: tm+mt
+source-wordcount: '161'
+ht-degree: 91%
 
 ---
 
@@ -25,11 +25,11 @@ Debugger の外観と動作に関する特定の要素を設定できます。
 
 ## ライトモードとダークモード
 
-Debugger が開いたら、**** に移動して「**ダークモード**」（デフォルト）または「**ライトモード**」を選択することで、好みの外観を選択できます。
+Debugger が開いたら、**[!UICONTROL Settings]** に移動して「**ダークモード**」（デフォルト）または「**ライトモード**」を選択することで、好みの外観を選択できます。
 
 ## リセット
 
-「**[!UI CONTROL すべてのデータと設定をリセット]**」をクリックして、すべてのデータをクリアし、既定の設定に戻します。
+をクリック **[!UICONTROL Reset all Data and Settings]** してすべてのデータを消去し、デフォルト設定に戻ります。
 
 ## 1 つのページに Debugger をロックする
 
