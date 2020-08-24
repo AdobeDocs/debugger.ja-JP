@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debuggerログ画面
+description: Experience Cloud Debugger ログ画面
 keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: Experience Cloud Debuggerログ画面
+seo-description: Experience Cloud Debugger ログ画面
 seo-title: ログ
 title: ログ
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
