@@ -1,15 +1,15 @@
 ---
-description: 実行中のExperience Cloud Debugger
+description: Experience Cloud Debugger の実行
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: 実行中のExperience Cloud Debugger
+seo-description: Experience Cloud Debugger の実行
 seo-title: サマリ画面
 title: サマリ画面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1035'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ Debugger には、各ソリューションについて以下の情報が表示�
   </tr> 
   <tr> 
    <td colname="col1"> <p>訪問者のバージョン </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/ja-JP/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">訪問者 ID</a> ライブラリ.のバージョン。 </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/ja-JP/analytics/components/metrics/unique-visitors.html" format="html" scope="external">訪問者 ID</a> ライブラリ.のバージョン。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ページ名 </p> </td> 
@@ -123,11 +123,11 @@ Debugger には、各ソリューションについて以下の情報が表示�
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
-   <td colname="col2"> <p>Launch ライブラリによって使用される<a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/environments.html" format="https" scope="external">環境</a> </p> </td> 
+   <td colname="col2"> <p>Launch ライブラリによって使用される<a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/environments.html" format="https" scope="external">環境</a>。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>スクリプトディレクトリ </p> </td> 
-   <td colname="col2"> <p>Launch スクリプトが格納されるディレクトリ </p> </td> 
+   <td colname="col2"> <p>Launch スクリプトが格納されるディレクトリ。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -138,11 +138,11 @@ Debugger には、各ソリューションについて以下の情報が表示�
  <tbody> 
   <tr> 
    <td colname="col1"> <p>ライブラリ名 </p> </td> 
-   <td colname="col2"> <p>Adobe DTM <a href="https://docs.adobe.com/content/help/ja-JP/dtm/using/library-management.html" format="html" scope="external">ライブラリ</a> の名前 </p> </td> 
+   <td colname="col2"> <p>Adobe DTM <a href="https://docs.adobe.com/content/help/ja-JP/dtm/using/library-management.html" format="html" scope="external">ライブラリ</a> の名前。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
-   <td colname="col2"> <p>Turbine のバージョン </p> </td> 
+   <td colname="col2"> <p>Turbine のバージョン。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ビルド日 </p> </td> 
@@ -150,11 +150,11 @@ Debugger には、各ソリューションについて以下の情報が表示�
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
-   <td colname="col2"> <p>DTM ライブラリによって使用される環境 </p> </td> 
+   <td colname="col2"> <p>DTM ライブラリによって使用される環境。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>スクリプトディレクトリ </p> </td> 
-   <td colname="col2"> <p>DTM スクリプトが格納されるディレクトリ </p> </td> 
+   <td colname="col2"> <p>DTM スクリプトが格納されるディレクトリ。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -169,7 +169,7 @@ Debugger には、各ソリューションについて以下の情報が表示�
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/ja-JP/analytics/components/metrics/unique-visitors.translate.html" format="html" scope="external">訪問者 ID</a> ライブラリのバージョン。 </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/ja-JP/analytics/components/metrics/unique-visitors.html" format="html" scope="external">訪問者 ID</a> ライブラリのバージョン。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -184,11 +184,11 @@ Debugger には、各ソリューションについて以下の情報が表示�
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
-   <td colname="col2"> <p>現在の <a href="https://docs.adobe.com/content/help/ja-JP/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a> または mbox.js バージョン </p> </td> 
+   <td colname="col2"> <p>現在の <a href="https://docs.adobe.com/content/help/ja-JP/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external"> at.js</a> または mbox.js バージョン。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>グローバル mbox 名 </p> </td> 
-   <td colname="col2"> <p>Target 実装の各 Web ページの最上部でおこなわれる単一のサーバー呼び出しを参照する <a href="https://docs.adobe.com/help/ja-JP/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">global mbox</a> </p> </td> 
+   <td colname="col2"> <p>Target 実装の各 Web ページの最上部でおこなわれる単一のサーバー呼び出しを参照する <a href="https://docs.adobe.com/help/ja-JP/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">global mbox</a>。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>mbox 名 </p> </td> 
