@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debuggerツール画面
+description: Experience Cloud Debugger ツール画面
 keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
-seo-description: Experience Cloud Debuggerツール画面
+seo-description: Experience Cloud Debugger ツール画面
 seo-title: ツール
 title: ツール
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '388'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -84,4 +84,4 @@ ht-degree: 97%
 
 以下のビデオでは、Debugger 拡張機能と Adobe Target の使用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=jpn)
