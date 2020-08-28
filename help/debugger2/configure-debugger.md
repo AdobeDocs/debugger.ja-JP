@@ -2,13 +2,13 @@
 description: Experience Cloud Debugger の設定方法
 keywords: debugger;experience cloud debugger extension;chrome;extension;configure
 seo-description: Experience Cloud Debugger の設定方法
-seo-title: Configure Experience Cloud Debugger
-title: Configure Experience Cloud Debugger
-translation-type: tm+mt
+seo-title: Experience Cloud Debugger の設定
+title: Experience Cloud Debugger の設定
+translation-type: ht
 source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Debugger が開いたら、**[!UICONTROL Settings]** に移動して「**ダー
 
 ## リセット
 
-をクリック **[!UICONTROL Reset all Data and Settings]** してすべてのデータを消去し、デフォルト設定に戻ります。
+**[!UICONTROL Reset all Data and Settings]** をクリックしてすべてのデータを消去し、デフォルト設定に戻ります。
 
 ## 1 つのページに Debugger をロックする
 
