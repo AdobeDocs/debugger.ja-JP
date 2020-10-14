@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger の概要画面
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Cloud Debugger の概要画面
+description: Experience Platformデバッガの概要画面
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+seo-description: Experience Platformデバッガの概要画面
 seo-title: サマリ画面
 title: サマリ画面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '948'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '949'
+ht-degree: 96%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
+>Adobe Experience Platformデバッガは現在ベータ版です。 ドキュメントと機能は変更される場合があります。
 
 Adobe Experience Platform Debugger を実行するには、ブラウザーバーのアイコンをクリックし、ブラウザーで確認するページを開きます。
 
@@ -30,9 +30,9 @@ Adobe Experience Platform Debugger サマリ画面が表示されます。
 
 この画面には、各 Adobe Experience Cloud ソリューションに関する情報が表示されます。表示される情報はソリューションによって異なりますが、通常、ソリューションライブラリおよびバージョン（例：「AppMeasurement v2.9」）およびアカウント識別子（Analytics レポートスイート ID、Target クライアントコード、Audience Manager パートナー ID など）の情報が含まれます。
 
-## Debugger に表示される情報
+## Experience Platformデバッガーに表示される情報
 
-Debugger には、各ソリューションについて以下の情報が表示されます。
+Experience Platformデバッガーには、各ソリューションに関する次の情報が表示されます。
 
 **Adobe Analytics**
 
