@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger ネットワーク画面
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: Experience Cloud Debugger ネットワーク画面
+description: Experience Platformデバッガネットワーク画面
+keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+seo-description: Experience Platformデバッガネットワーク画面
 seo-title: ネットワーク情報
 title: ネットワーク情報
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '228'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '227'
+ht-degree: 92%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
+>Adobe Experience Platformデバッガは現在ベータ版です。 ドキュメントと機能は変更される場合があります。
 
 ネットワーク情報を表示するには、**[!UICONTROL Network]** をクリックします。
 
