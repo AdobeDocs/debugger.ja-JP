@@ -1,27 +1,27 @@
 ---
-cloud: experience-cloud
-product: experience cloud
-sub-product: experience cloud debugger 2.0
+cloud: experience-platform
+product: experience platform
+sub-product: 'experience platform debugger '
 audience: end-user
-user-guide-title: Experience Cloud Debugger 2.0 ヘルプ
-user-guide-description: Examine your web pages for problems with your Experience Platform implementations.
-breadcrumb-title: Debugger 2.0 Guide
+user-guide-title: Experience Platformデバッガーヘルプ
+user-guide-description: Web ページで、Experience Platform の実装に関する問題を調べます。
+breadcrumb-title: プラットフォームデバッガガイド
 index: true
-translation-type: ht
-source-git-commit: 89781a342e467513b244240c171fc5bad040ca35
-workflow-type: ht
-source-wordcount: '31'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '47'
+ht-degree: 53%
 
 ---
 
 
-# Experience Cloud Debugger 2.0 ヘルプ {#using-v2}
+# Experience Platform Debugger Help {#using-v2}
 
-+ [Adobe Experience Cloud Debugger 拡張機能](experience-cloud-debugger.md)
++ [Adobe Experience Platform Debugger 拡張機能](experience-cloud-debugger.md)
 + [リリースノート](release-notes.md)
-+ [Experience Cloud Debugger のインストール](install-debugger.md)
-+ [Debugger の設定](configure-debugger.md)
++ [Experience Platformデバッガーのインストール](install-debugger.md)
++ [Experience Platformデバッガーの設定](configure-debugger.md)
 + [サマリ画面](summary.md)
 + [ソリューション](solutions.md)
 + [ログ](logs.md)
