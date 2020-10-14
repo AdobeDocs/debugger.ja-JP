@@ -1,14 +1,14 @@
 ---
-description: Experience Cloud Debugger イベント画面
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Experience Cloud Debugger イベント画面
+description: Experience Platformデバッガのイベント画面
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: Experience Platformデバッガのイベント画面
 seo-title: イベント
 title: イベント
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 89%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
+>Adobe Experience Platformデバッガは現在ベータ版です。 ドキュメントと機能は変更される場合があります。
 
 イベント画面では、発生したイベントのグラフィックがタイムラインに表示されます。
 
 ![](assets/events.jpg)
 
-各イベントに対して、該当する Experience Cloud ソリューションのアイコンがタイムラインに表示されます。アイコンは、データレイヤーに対する変更も表示するようになりました（有効になっている場合）。イベントの概要を表示するアイコンの上にマウスポインターを置きます。イベントをクリックして詳細を表示します。複数のイベントを表示するには、Shift キーまたは Control キーを押しながらクリックします。
+各イベントに対して、該当する ソリューションのアイコンがタイムラインに表示されます。アイコンは、データレイヤーに対する変更も表示するようになりました（有効になっている場合）。イベントの概要を表示するアイコンの上にマウスポインターを置きます。イベントをクリックして詳細を表示します。複数のイベントを表示するには、Shift キーまたは Control キーを押しながらクリックします。
 
 ![](assets/events-details.jpg)
 
