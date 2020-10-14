@@ -1,12 +1,15 @@
 ---
-description: Adobe Debugger でのソリューションタブの使用
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: Adobe Debugger でのソリューションタブの使用
-seo-title: Adobe Debugger のソリューションタブ
+description: Adobe Experience Platformデバッガの「ソリューション」タブの使用
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+seo-description: 'Adobe Experience Platformデバッガの「ソリューション」タブの使用 '
+seo-title: 'Adobe Experience Platformデバッガーの「ソリューション」タブ '
 title: ソリューションタブ
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 82%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
+>Adobe Experience Platformデバッガは現在ベータ版です。 ドキュメントと機能は変更される場合があります。
 
 ソリューションをクリックして、特定の Adobe Experience Cloud ソリューションの結果を確認します。
 
@@ -39,7 +42,7 @@ Target 画面を使用して [Target](https://docs.adobe.com/content/help/ja-JP/
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-「Launch」セクションを使用して、Launch リクエストを表示します。**[!UICONTROL Configuration]** をクリックして[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/launch/using/reference/upgrade/link-dtm-embed-code.html)を設定することもできます。Debugger 内で埋め込みコードを編集、置換、または追加できます。ログインしている場合は、ドロップダウンを使用して別のプロパティを選択できます。
+「Launch」セクションを使用して、Launch リクエストを表示します。**[!UICONTROL Configuration]** をクリックして[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/launch/using/reference/upgrade/link-dtm-embed-code.html)を設定することもできます。埋め込みコードは、Experience Platformデバッガ内で編集、置換、追加できます。 ログインしている場合は、ドロップダウンを使用して別のプロパティを選択できます。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
