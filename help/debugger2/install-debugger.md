@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger のインストール方法
-keywords: debugger;experience cloud debugger extension;chrome;extension;install
-seo-description: Experience Cloud Debugger のインストール方法
-seo-title: Experience Cloud Debugger のインストール
-title: Experience Cloud Debugger のインストール
+description: Experience Platformデバッガのインストール方法
+keywords: debugger;experience Platform Debugger extension;chrome;extension;install
+seo-description: Experience Platformデバッガのインストール方法
+seo-title: Experience Platformデバッガーのインストール
+title: Experience Platformデバッガーのインストール
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 63%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
+>Adobe Experience Platformデバッガは現在ベータ版です。 ドキュメントと機能は変更される場合があります。
 
 Adobe Experience Platform Debugger をダウンロードしてインストールします。
 
@@ -29,5 +29,5 @@ Chrome 拡張機能または Firefox アドオンをインストールすると�
 
 ![](assets/start-icon.jpg)
 
-アイコンをクリックして Debugger を起動します。
+アイコンをクリックして開始Experience Platformデバッガを起動します。
 
