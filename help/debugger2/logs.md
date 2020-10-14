@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger ログ画面
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: Experience Cloud Debugger ログ画面
+description: Experience Platformデバッガのログ画面
+keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+seo-description: Experience Platformデバッガのログ画面
 seo-title: ログ
 title: ログ
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 88%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 は現在ベータ版です。ドキュメントと機能は変更される場合があります。
+>Adobe Experience Platformデバッガは現在ベータ版です。 ドキュメントと機能は変更される場合があります。
 
 ログ画面には、DTM、Launch、AEP Web SDK の実装に固有の情報が表示されます。この情報を表示するために、DTM 用コンソールデバッグツールを有効にする必要はありません。関連する ツールを通じて実装したソリューションでフィルタリングできます。
 
