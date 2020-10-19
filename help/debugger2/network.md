@@ -1,15 +1,15 @@
 ---
-description: Experience Platformデバッガネットワーク画面
+description: Experience Platform Debugger ネットワーク画面
 keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
-seo-description: Experience Platformデバッガネットワーク画面
+seo-description: Experience Platform Debugger ネットワーク画面
 seo-title: ネットワーク情報
 title: ネットワーク情報
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 92%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platformデバッガは現在ベータ版です。 ドキュメントと機能は変更される場合があります。
+>Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
 ネットワーク情報を表示するには、**[!UICONTROL Network]** をクリックします。
 
