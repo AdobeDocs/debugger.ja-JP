@@ -1,14 +1,14 @@
 ---
-description: Experience Platformデバッガのイベント画面
+description: Experience Platform Debugger イベント画面
 keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
-seo-description: Experience Platformデバッガのイベント画面
+seo-description: Experience Platform Debugger イベント画面
 seo-title: イベント
 title: イベント
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 89%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platformデバッガは現在ベータ版です。 ドキュメントと機能は変更される場合があります。
+>Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
 イベント画面では、発生したイベントのグラフィックがタイムラインに表示されます。
 
