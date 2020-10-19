@@ -1,14 +1,14 @@
 ---
-description: Experience Platformデバッガの設定方法
+description: Experience Platform Debugger の設定方法
 keywords: debugger;experience platform debugger extension;chrome;extension;configure
-seo-description: Experience Platformデバッガの設定方法
-seo-title: Experience Platformデバッガーの設定
-title: Experience Platformデバッガーの設定
-translation-type: tm+mt
+seo-description: Experience Platform Debugger の設定方法
+seo-title: Experience Platform Debugger の設定
+title: Experience Platform Debugger の設定
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -17,23 +17,23 @@ ht-degree: 35%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platformデバッガは現在ベータ版です。 ドキュメントと機能は変更される場合があります。
+>Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
-Experience Platformデバッガの外観と動作について、特定の側面を設定できます。
+Experience Platform Debugger の外観と動作に関する特定の要素を設定できます。
 
 ![](assets/settings.jpg)
 
 ## ライトモードとダークモード
 
-After Experience Platform Debugger opens, you can select your preferred appearance by going to **[!UICONTROL Settings]** and selecting either **Dark Mode** (default) or **Light Mode**.
+Experience Platform Debugger が開いたら、**[!UICONTROL Settings]** に移動して「**ダークモード**」（デフォルト）または「**ライトモード**」を選択することで、好みの外観を選択できます。
 
 ## リセット
 
 **[!UICONTROL Reset all Data and Settings]** をクリックしてすべてのデータを消去し、デフォルト設定に戻ります。
 
-## 1つのページでExperience Platformデバッガーをロックする
+## あるページに Experience Platform Debugger をロックする
 
-サイトでページを変更すると、[Experience Platformデバッガ]ウィンドウが更新され、そのページの情報が表示されます。 接続しているページの名前が画面の下部に表示されます。To keep Experience Platform Debugger locked on one page, click **[!UICONTROL Lock]** in the bottom right corner of the Experience Platform Debugger window.
+サイト上のページを変更すると、Experience Platform Debugger ウィンドウが更新され、そのページの情報が表示されます。接続しているページの名前が画面の下部に表示されます。Experience Platform Debugger を 1 つのページでロックしたままにするには、Experience Platform Debugger ウィンドウの右下隅で **[!UICONTROL Lock]** をクリックします。
 
 ![](assets/lock.jpg)
 
