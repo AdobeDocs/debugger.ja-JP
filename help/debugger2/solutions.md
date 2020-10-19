@@ -1,15 +1,15 @@
 ---
-description: Adobe Experience Platformデバッガの「ソリューション」タブの使用
+description: Adobe Experience Platform Debugger での「ソリューション」タブの使用
 keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: 'Adobe Experience Platformデバッガの「ソリューション」タブの使用 '
-seo-title: 'Adobe Experience Platformデバッガーの「ソリューション」タブ '
+seo-description: 'Adobe Experience Platform Debugger での「ソリューション」タブの使用 '
+seo-title: 'Adobe Experience Platform Debugger の「ソリューション」タブ '
 title: ソリューションタブ
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 82%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platformデバッガは現在ベータ版です。 ドキュメントと機能は変更される場合があります。
+>Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
 ソリューションをクリックして、特定の Adobe Experience Cloud ソリューションの結果を確認します。
 
@@ -42,7 +42,7 @@ Target 画面を使用して [Target](https://docs.adobe.com/content/help/ja-JP/
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-「Launch」セクションを使用して、Launch リクエストを表示します。**[!UICONTROL Configuration]** をクリックして[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/launch/using/reference/upgrade/link-dtm-embed-code.html)を設定することもできます。埋め込みコードは、Experience Platformデバッガ内で編集、置換、追加できます。 ログインしている場合は、ドロップダウンを使用して別のプロパティを選択できます。
+「Launch」セクションを使用して、Launch リクエストを表示します。**[!UICONTROL Configuration]** をクリックして[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/launch/using/reference/upgrade/link-dtm-embed-code.html)を設定することもできます。Experience Platform Debugger 内で埋め込みコードを編集、置換、または追加できます。ログインしている場合は、ドロップダウンを使用して別のプロパティを選択できます。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
