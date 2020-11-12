@@ -6,10 +6,10 @@ seo-title: リリースノート
 title: リリースノート
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 100%
+source-wordcount: '723'
+ht-degree: 85%
 
 ---
 
@@ -50,12 +50,12 @@ ht-degree: 100%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Auditor テスト </p> </td> 
-   <td colname="col2"> <p> Debugger に <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">Auditor テスト</a>を追加しました。 </p> </td> 
+   <td colname="col1"> <p>Adobe Experience Platform監査人テスト </p> </td> 
+   <td colname="col2"> <p> Experience Cloud Debuggerに <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Platform Auditorテストを追加しました</a> 。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Debugger に AAM 応答が表示されるようになりました。 </p> </td> 
+   <td colname="col2"> <p>Experience Cloud DebuggerにAAM応答が表示されるようになりました </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,7 +64,7 @@ ht-degree: 100%
 
 * フッターがページの下部にあるコンテンツを隠していた問題を修正しました。
 
-* Debugger フッターを更新しました。
+* Experience Cloud Debuggerのフッターを更新しました
 * 古い用語が Target で使用されていた問題を修正しました。
 
 ## バージョン 0.0.809 2019 年 2 月 28 日 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -96,7 +96,7 @@ ht-degree: 100%
 
 * Launch を動的に挿入で、間違ったタイミングで別の埋め込みコードにマッピングするためのユーザーインターフェイスが表示されていた問題を修正しました。
 * Launch を動的に挿入で間違った URL が表示され続けていた問題を修正しました。
-* Debugger ウィンドウが閉じていても、Debugger が埋め込みコードを置き換え続けていた問題を修正しました。
+* Experience Cloud Debuggerーウィンドウが閉じてもExperience Cloud Debuggerが埋め込みコードを置き換え続ける問題を修正しました
 
 ## バージョン 0.0.806 2018 年 9 月 10 日 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -116,7 +116,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colname="col1"> <p>Launch を動的に挿入 </p> </td> 
-   <td colname="col2"> <p>「ツール」タブから、任意のページで Launch を動的に挿入して、Launch がインストールされていないページをテストできます。 </p> </td> 
+   <td colname="col2"> <p>「ツール」タブから、任意のページにAdobe Experience Platform Launchを動的に挿入して、プラットフォーム起動がインストールされていないページでテストできます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Target の機能強化 </p> </td> 
@@ -139,7 +139,7 @@ ht-degree: 100%
 * 「Experience Cloud」タブが更新されていなかった問題を修正しました。
 
 * 「ネットワーク」タブのソリューション行に、現在の「Advertising Cloud」ではなく、「Media Manager」が表示されていた問題を修正しました。
-* Debugger が各ページに _satellite を挿入していた問題を修正しました。
+* Experience Cloud Debuggerがすべてのページに_satelliteを挿入する問題を修正しました
 
 ## バージョン 0.0.803 2018 年 8 月 10 日 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -158,8 +158,8 @@ ht-degree: 100%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>「ツール」タブの Auditor リンク </p> </td> 
-   <td colname="col2"> <p>Debugger から Auditor へのリンクを追加しました。 </p> </td> 
+   <td colname="col1"> <p>「ツール」タブの「Platform Auditor」リンク </p> </td> 
+   <td colname="col2"> <p>Experience Cloud DebuggerからPlatform Auditorへのリンクを追加しました。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>折りたたまれたタブ </p> </td> 
