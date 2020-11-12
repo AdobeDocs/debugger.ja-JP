@@ -5,11 +5,11 @@ seo-description: Experience Platform Debugger ログ画面
 seo-title: ログ
 title: ログ
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 87%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 >
 >Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
-ログ画面には、DTM、Launch、AEP Web SDK の実装に固有の情報が表示されます。この情報を表示するために、DTM 用コンソールデバッグツールを有効にする必要はありません。関連する ツールを通じて実装したソリューションでフィルタリングできます。
+ログ画面には、DTM、Adobe Experience Platform Launch、Adobe Experience PlatformのWeb SDK実装に固有の情報が表示されます。 この情報を表示するために、DTM 用コンソールデバッグツールを有効にする必要はありません。関連する ツールを通じて実装したソリューションでフィルタリングできます。
 
 ![](assets/logs.jpg)
 
