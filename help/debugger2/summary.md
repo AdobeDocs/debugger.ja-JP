@@ -5,11 +5,11 @@ seo-description: Experience Platform Debugger 概要画面
 seo-title: 概要画面
 title: 概要画面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '949'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '957'
+ht-degree: 92%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 >
 >Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
-Adobe Experience Platform Debugger を実行するには、ブラウザーバーのアイコンをクリックし、ブラウザーで確認するページを開きます。
+Adobe Experience Platformデバッガを実行するには、ブラウザバーのアイコンをクリックし、ブラウザで確認するページを開きます。
 
 ![](assets/start-icon.jpg)
 
@@ -80,13 +80,13 @@ Experience Platform Debugger には、各ソリューションについて以下
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名前 </p> </td> 
-   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">プロパティ</a>の名前。 </p> </td> 
+   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
@@ -94,11 +94,11 @@ Experience Platform Debugger には、各ソリューションについて以下
   </tr> 
   <tr> 
    <td colname="col1"> <p>ビルド日 </p> </td> 
-   <td colname="col2"> <p>Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/libraries.html" format="https" scope="external"> ライブラリ</a>のビルド日。 </p> </td> 
+   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
-   <td colname="col2"> <p>Launch ライブラリによって使用される <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/environments.html" format="https" scope="external"> 環境</a>。 </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>拡張機能 </p> </td> 
@@ -107,13 +107,13 @@ Experience Platform Debugger には、各ソリューションについて以下
  </tbody> 
 </table>
 
-**Adobe Web SDK**
+**Adobe Experience PlatformウェブSDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>ライブラリバージョン </p> </td> 
-   <td colname="col2"> <p>AEB Web SDK <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">ライブラリのバージョン</a>番号。 </p> </td> 
+   <td colname="col2"> <p>Adobe Experience PlatformWeb SDK <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">ライブラリバージョンの番号</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>名前空間</p> </td> 
@@ -121,7 +121,7 @@ Experience Platform Debugger には、各ソリューションについて以下
   </tr> 
   <tr> 
    <td colname="col1"> <p>プロパティ ID </p> </td> 
-   <td colname="col2"> <p>拡張機能で指定された Launch プロパティの名前。 </p> </td> 
+   <td colname="col2"> <p>拡張機能で指定されたPlatform Launchプロパティの名前 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>エッジドメイン </p> </td> 
