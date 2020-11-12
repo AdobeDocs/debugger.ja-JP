@@ -5,8 +5,11 @@ seo-description: Adobe Debugger でのソリューションタブの使用
 seo-title: Adobe Debugger のソリューションタブ
 title: ソリューションタブ
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '1063'
+ht-degree: 94%
 
 ---
 
@@ -33,7 +36,7 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ![](assets/analytics-hits-expand.jpg)
 
-この画面には、Debugger が開かれたか、リクエストがクリアされてからのすべてのリクエストが表示されます。デフォルトパラメーターは、わかりやすい名前に自動的にマッピングされます。「Analytics をリンク」機能（後述）を使用して認証する場合、[Prop および eVar](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/vars/page-vars/evar.html) 変数は、カスタムのわかりやすい名前（例えば、「prop1」が「ユーザータイプ」として表示される）にマッピングできます。リクエストは、シーケンスに、左から右に表示されます。
+この画面には、Adobe Experience Platform Debuggerが開かれた以降、または要求がクリアされた後のすべての要求が表示されます。 デフォルトパラメーターは、わかりやすい名前に自動的にマッピングされます。「Analytics をリンク」機能（後述）を使用して認証する場合、[Prop および eVar](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/vars/page-vars/evar.html) 変数は、カスタムのわかりやすい名前（例えば、「prop1」が「ユーザータイプ」として表示される）にマッピングできます。リクエストは、シーケンスに、左から右に表示されます。
 
 **ダウンロード：**&#x200B;レポートスイートに対しておこなわれたすべてのリクエストを Excel スプレッドシートとして保存します。
 
@@ -41,7 +44,7 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 **リンクされたアカウント（レガシー）**
 
-**[!UICONTROL Link Account]**&#x200B;をクリックして、Analytics アカウントを Debugger にリンクするために必要な情報を入力します。
+Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Platform Debugger.
 
 >[!NOTE]
 >
@@ -53,7 +56,7 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 処理ルールが実行された後に Analytics ヒットに関する値を確認したい場合、「後処理したヒットを取得」オプションを有効にします。この機能を利用するには、Adobe Experience Cloud にサインインする必要があります。
 
-このオプションを有効にすると、Analytics リクエストにデバッグパラメーターが追加されます。ヒットは、他のヒットのように、引き続き処理されます。Debugger は、Analytics デバッグ API を調査して、元のヒット ID を持つヒットの処理ルール後の値を取得します。後処理したヒットは、背景が紫色で、元のヒットの隣に表示されます。
+このオプションを有効にすると、Analytics リクエストにデバッグパラメーターが追加されます。ヒットは、他のヒットのように、引き続き処理されます。プラットフォームデバッガーは、AnalyticsデバッグAPIをポーリングして、元のヒットIDを持つヒットの後処理ルールの値を取得します。 後処理したヒットは、背景が紫色で、元のヒットの隣に表示されます。
 
 ほとんどの Analytics 実装では、処理ルール後の情報は数分以内に使用できます。Analytics for Target（A4T）実装は、大幅に長くなります。
 
@@ -85,11 +88,11 @@ Mbox Trace を有効にするには、開いている Chrome タブで Experienc
 
 以下のビデオは、一般的な Target 機能を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 以下のビデオは、Mbox Trace を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
