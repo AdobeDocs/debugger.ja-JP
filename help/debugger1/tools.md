@@ -5,11 +5,11 @@ seo-description: Experience Cloud Debugger ツール画面
 seo-title: ツール
 title: ツール
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '392'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 92%
 
 ![](assets/tools.jpg)
 
-Platform LaunchまたはDTMがインストールされていないページでは、任意のページにAdobe Experience Platform LaunchまたはDTMを動的に挿入してテストできます。 **[!UICONTROL Embed Code]** アイコンをクリックして、[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/dtm/using/client-side/deployment.html)を入力し、**[!UICONTROL Save]** をクリックします。
+任意のページで Adobe Experience Platform Launch または DTM を動的に挿入して、Platform Launch または DTM がインストールされていないページをテストできます。**[!UICONTROL Embed Code]** アイコンをクリックして、[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/dtm/using/client-side/deployment.html)を入力し、**[!UICONTROL Save]** をクリックします。
 
 ![](assets/tools-embedcode.jpg)
 
@@ -84,4 +84,4 @@ Platform LaunchまたはDTMがインストールされていないページで�
 
 以下のビデオでは、Debugger 拡張機能と Adobe Target の使用方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=jpn)
