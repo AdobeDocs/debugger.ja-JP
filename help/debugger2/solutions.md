@@ -5,11 +5,11 @@ seo-description: 'Adobe Experience Platform Debugger での「ソリューショ
 seo-title: 'Adobe Experience Platform Debugger の「ソリューション」タブ '
 title: ソリューションタブ
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 88%
 
 ## Adobe Experience Platform Web SDK {#aep}
 
-[Adobe Experience PlatformウェブSDK]画面には、Adobe Experience PlatformウェブSDKに関する情報が表示されます。 **[!UICONTROL Configure]** をクリックして、コンソールログのオン／オフを切り替えます。
+Adobe Experience Platform Web SDK 画面には、Adobe Experience Platform Web SDK に関する情報が表示されます。**[!UICONTROL Configure]** をクリックして、コンソールログのオン／オフを切り替えます。
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -42,7 +42,7 @@ Target 画面を使用して [Target](https://docs.adobe.com/content/help/ja-JP/
 
 ## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-「Adobe Experience Platform Launch」セクションを使用して、表示プラットフォームの起動リクエストを行います。 **[!UICONTROL Configuration]** をクリックして[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/launch/using/reference/upgrade/link-dtm-embed-code.html)を設定することもできます。Experience Platform Debugger 内で埋め込みコードを編集、置換、または追加できます。ログインしている場合は、ドロップダウンを使用して別のプロパティを選択できます。
+「Adobe Experience Platform Launch」セクションを使用して、Platform Launch のリクエストを表示します。**[!UICONTROL Configuration]** をクリックして[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/launch/using/reference/upgrade/link-dtm-embed-code.html)を設定することもできます。Experience Platform Debugger 内で埋め込みコードを編集、置換、または追加できます。ログインしている場合は、ドロップダウンを使用して別のプロパティを選択できます。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
