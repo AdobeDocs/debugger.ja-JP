@@ -4,9 +4,9 @@ keywords: debugger;experience platform debugger extension;chrome;extension;confi
 seo-description: Experience Platform Debugger の設定方法
 seo-title: Experience Platform Debugger の設定
 title: Experience Platform Debugger の設定
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ Experience Platform Debugger の外観と動作に関する特定の要素を設
 
 ## あるページに Experience Platform Debugger をロックする
 
-サイト上のページを変更すると、Experience Platform Debugger ウィンドウが更新され、そのページの情報が表示されます。接続しているページの名前が画面の下部に表示されます。 Platform Debugger を 1 つのページでロックしたままにするには、Experience Platform Debugger ウィンドウの右下隅で **[!UICONTROL Lock]** をクリックします。
+サイト上のページを変更すると、Experience Platform Debugger ウィンドウが更新され、そのページの情報が表示されます。接続しているページの名前が画面の下部に表示されます。Platform Debugger を 1 つのページでロックしたままにするには、Experience Platform Debugger ウィンドウの右下隅で **[!UICONTROL Lock]** をクリックします。
 
 ![](assets/lock.jpg)
 
