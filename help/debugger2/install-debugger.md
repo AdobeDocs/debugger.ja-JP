@@ -5,11 +5,11 @@ seo-description: Experience Platform Debugger のインストールについて
 seo-title: Experience Platform Debugger のインストール
 title: Experience Platform Debugger のインストール
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 92%
 >
 >Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
-Adobe Experience Platformデバッガをダウンロードしてインストールします。
+Adobe Experience Platform Debugger をダウンロードしてインストールします。
 
 * **Chrome：**[Chrome 拡張機能ページ](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)から
 * **Firefox：**[Firefox アドオンページ](https://addons.mozilla.org/ja/firefox/addon/adobe-experience-platform-dbg/)から
