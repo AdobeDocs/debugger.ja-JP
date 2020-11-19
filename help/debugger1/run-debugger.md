@@ -5,18 +5,18 @@ seo-description: Experience Cloud Debugger の実行
 seo-title: 概要画面
 title: 概要画面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1047'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 
 # 概要画面 {#summary-screen}
 
-Adobe Experience Cloudデバッガーを実行するには、拡張機能バーの拡張機能アイコンをクリックし、Chromeで確認するページを開きます。
+Adobe Experience Cloud Debugger を実行するには、拡張機能バーにある拡張機能アイコンをクリックし、Chrome で調べたいページを開きます。
 
 ![](assets/start-icon.jpg)
 
@@ -32,13 +32,13 @@ Adobe Experience Cloudデバッガーを実行するには、拡張機能バー�
 
 ![](assets/summary-target2.jpg)
 
-## Adobe Experience Platform監査の実行 {#section-82bc57440406461ebf27a16855b71655}
+## Adobe Experience Platform Auditor で監査を実行する {#section-82bc57440406461ebf27a16855b71655}
 
-Plaform Auditorを使用して、ページに対して一連の監査を実行できます。 To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
+Platform Auditor を使用して、ページで一連の監査を実行できます。Platform Auditor を実行するには、上部のメニューの「**[!UICONTROL Auditor]**」をクリックしてから、「**[!UICONTROL Audit Page Now]**」をクリックします。Platform Auditor を開くには、「**[!UICONTROL Run Multi-Page Audit Now]**」をクリックします。
 
-## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Experience Cloud Debugger に表示される情報 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-Experience Cloud Debuggerには、各ソリューションに関する次の情報が表示されます。
+Experience Cloud Debugger には、各ソリューションについて以下の情報が表示されます。
 
 **ページ情報**
 
@@ -111,7 +111,7 @@ Experience Cloud Debuggerには、各ソリューションに関する次の情�
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名前 </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">プロパティ</a>の名前 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
@@ -119,15 +119,15 @@ Experience Cloud Debuggerには、各ソリューションに関する次の情�
   </tr> 
   <tr> 
    <td colname="col1"> <p>ビルド日 </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/libraries.html" format="https" scope="external">ライブラリ</a>のビルド日 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p>Platform Launch ライブラリによって使用される<a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/environments.html" format="https" scope="external">環境</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>スクリプトディレクトリ </p> </td> 
-   <td colname="col2"> <p>プラットフォーム起動スクリプトが保存されるディレクトリ </p> </td> 
+   <td colname="col2"> <p>Platform Launch スクリプトが格納されるディレクトリ。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ Experience Cloud Debuggerには、各ソリューションに関する次の情�
   </tr> 
   <tr> 
    <td colname="col1"> <p>ビルド日 </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/dtm/using/library-management.html" format="html" scope="external">ライブラリ</a>のビルド日 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
@@ -196,7 +196,7 @@ Experience Cloud Debuggerには、各ソリューションに関する次の情�
   </tr> 
   <tr> 
    <td colname="col1"> <p>アクティビティ名 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ja-JP/target/using/activities/activities.html" format="html" scope="external"> キャンペーンまたはアクティビティ</a>の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な <a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external"> レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ja-JP/target/using/activities/activities.html" format="html" scope="external"> キャンペーンまたはアクティビティ</a>の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な<a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external">レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>アクティビティ ID </p> </td> 
@@ -212,11 +212,11 @@ Experience Cloud Debuggerには、各ソリューションに関する次の情�
   </tr> 
   <tr> 
    <td colname="col1"> <p>オファー </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ja-JP/target/using/experiences/offers/manage-content.html" format="html" scope="external"> オファー</a>の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な <a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external"> レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ja-JP/target/using/experiences/offers/manage-content.html" format="html" scope="external"> オファー</a>の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な<a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external">レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>オファー ID </p> </td> 
-   <td colname="col2"> <p>Target オファーの ID。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な <a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external"> レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
+   <td colname="col2"> <p>Target オファーの ID。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な<a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external">レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
