@@ -5,11 +5,11 @@ seo-description: Experience Platform Debugger 概要画面
 seo-title: 概要画面
 title: 概要画面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '957'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 92%
 >
 >Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
-Adobe Experience Platformデバッガを実行するには、ブラウザバーのアイコンをクリックし、ブラウザで確認するページを開きます。
+Adobe Experience Platform Debugger を実行するには、ブラウザーバーのアイコンをクリックし、ブラウザーで確認するページを開きます。
 
 ![](assets/start-icon.jpg)
 
@@ -48,11 +48,11 @@ Experience Platform Debugger には、各ソリューションについて以下
   </tr> 
   <tr> 
    <td colname="col1"> <p>訪問者のバージョン </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/ja-JP/analytics/components/metrics/unique-visitors.html" format="html" scope="external">訪問者 ID</a> ライブラリ.のバージョン。 </p> </td> 
+   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/ja_JP/sc/implement/visid_analytics.html" format="html" scope="external">訪問者 ID</a> ライブラリ.のバージョン。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>ページ名 </p> </td> 
-   <td colname="col2"> <p>サイトのわかりやすい名前を含む Analytics に送信された <a href="https://docs.adobe.com/content/help/ja-JP/analytics/implementation/vars/page-vars/page-variables.html" format="html" scope="external">pageName</a> 変数。 </p> </td> 
+   <td colname="col2"> <p>サイトのわかりやすい名前を含む Analytics に送信された <a href="https://experiencecloud.adobe.com/resources/help/ja_JP/sc/implement/pageName.html" format="html" scope="external">pageName</a> 変数。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>モジュール </p> </td> 
@@ -67,15 +67,15 @@ Experience Platform Debugger には、各ソリューションについて以下
  <tbody> 
   <tr> 
    <td colname="col1"> <p>パートナー </p> </td> 
-   <td colname="col2"> <p>DIL インスタンスの<a href="https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/dil-api/dil-instance-methods.html#getpartner" format="html" scope="external">パートナー名</a>。 </p> </td> 
+   <td colname="col2"> <p>DIL インスタンスの<a href="https://experiencecloud.adobe.com/resources/help/ja_JP/aam/r_dil_get_partner.html" format="html" scope="external">パートナー名</a>。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
-   <td colname="col2"> <p>DIL インスタンスの<a href="https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.html#return-version-dil" format="html" scope="external">バージョン番号</a>。 </p> </td> 
+   <td colname="col2"> <p>DIL インスタンスの<a href="https://experiencecloud.adobe.com/resources/help/ja_JP/aam/r_api_return_versions_dil.html" format="html" scope="external">バージョン番号</a>。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>DIL インスタンスに関連付けられた<a href="https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external">一意のユーザー ID</a>。 </p> </td> 
+   <td colname="col2"> <p>DIL インスタンスに関連付けられた<a href="https://experiencecloud.adobe.com/resources/help/ja_JP/aam/ids-in-aam.html" format="html" scope="external">一意のユーザー ID</a>。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -86,7 +86,7 @@ Experience Platform Debugger には、各ソリューションについて以下
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名前 </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">プロパティ</a>の名前 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
@@ -94,11 +94,11 @@ Experience Platform Debugger には、各ソリューションについて以下
   </tr> 
   <tr> 
    <td colname="col1"> <p>ビルド日 </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/libraries.html" format="https" scope="external">ライブラリ</a>のビルド日 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p>Platform Launch ライブラリによって使用される<a href="https://docs.adobe.com/content/help/ja-JP/launch/using/reference/publish/environments.html" format="https" scope="external">環境</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>拡張機能 </p> </td> 
@@ -107,13 +107,13 @@ Experience Platform Debugger には、各ソリューションについて以下
  </tbody> 
 </table>
 
-**Adobe Experience PlatformウェブSDK**
+**Adobe Experience Platform Web SDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>ライブラリバージョン </p> </td> 
-   <td colname="col2"> <p>Adobe Experience PlatformWeb SDK <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">ライブラリバージョンの番号</a> </p> </td> 
+   <td colname="col2"> <p>Adobe Experience Platform Web SDK <a href="https://docs.adobe.com/content/help/ja-JP/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">ライブラリのバージョン番号</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>名前空間</p> </td> 
@@ -121,7 +121,7 @@ Experience Platform Debugger には、各ソリューションについて以下
   </tr> 
   <tr> 
    <td colname="col1"> <p>プロパティ ID </p> </td> 
-   <td colname="col2"> <p>拡張機能で指定されたPlatform Launchプロパティの名前 </p> </td> 
+   <td colname="col2"> <p>拡張機能で指定された Platform Launch プロパティの名前 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>エッジドメイン </p> </td> 
@@ -148,7 +148,7 @@ Experience Platform Debugger には、各ソリューションについて以下
   </tr> 
   <tr> 
    <td colname="col1"> <p>バージョン </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/ja-JP/analytics/components/metrics/unique-visitors.html" format="html" scope="external">訪問者 ID</a> ライブラリのバージョン。 </p> </td> 
+   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/ja_JP/sc/implement/visid_analytics.html" format="html" scope="external">訪問者 ID</a> ライブラリのバージョン。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -175,31 +175,31 @@ Experience Platform Debugger には、各ソリューションについて以下
   </tr> 
   <tr> 
    <td colname="col1"> <p>リクエスト名 </p> </td> 
-   <td colname="col2"> <p>ページ上の <a href="https://docs.adobe.com/content/help/ja-JP/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> 場所</a>の周囲にある mbox の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な <a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external"> レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
+   <td colname="col2"> <p>ページ上の <a href="https://docs.adobe.com/content/help/ja-JP/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external"> 場所</a>の周囲にある mbox の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な<a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external">レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>アクティビティ名 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ja-JP/target/using/activities/activities.html" format="html" scope="external"> キャンペーンまたはアクティビティ</a>の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な <a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external"> レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ja-JP/target/using/activities/activities.html" format="html" scope="external"> キャンペーンまたはアクティビティ</a>の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な<a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external">レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>アクティビティ ID </p> </td> 
-   <td colname="col2"> <p>Target アクティビティの ID。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な <a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external"> レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
+   <td colname="col2"> <p>Target アクティビティの ID。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な<a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external">レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>エクスペリエンス名 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ja-JP/target/using/experiences/experiences.html" format="html" scope="external"> エクスペリエンス</a>の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な <a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external"> レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ja-JP/target/using/experiences/experiences.html" format="html" scope="external"> エクスペリエンス</a>の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な<a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external">レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>エクスペリエンス ID </p> </td> 
-   <td colname="col2"> <p>Target エクスペリエンスの ID。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な <a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external"> レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
+   <td colname="col2"> <p>Target エクスペリエンスの ID。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な<a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external">レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>オファー    名前</p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ja-JP/target/using/experiences/offers/manage-content.html" format="html" scope="external"> オファー</a>の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な <a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external"> レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
+   <td colname="col1"> <p>オファー     名前</p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/ja-JP/target/using/experiences/offers/manage-content.html" format="html" scope="external"> オファー</a>の名前。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な<a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external">レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>オファー ID </p> </td> 
-   <td colname="col2"> <p>Target オファーの ID。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な <a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external"> レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
+   <td colname="col2"> <p>Target オファーの ID。コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な<a href="https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html" format="html" scope="external">レスポンストークン</a>をオンにする場合にのみ、認証なしで使用できます。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
