@@ -5,9 +5,9 @@ seo-description: Experience Cloud Debugger のインストール手順
 seo-title: Experience Cloud Debugger のインストール
 title: Experience Cloud Debugger のインストール
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 ![](assets/start-icon.jpg)
 
->[!VIDEO](https://video.tv.adobe.com/v/23114t2/?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23114t2/)
