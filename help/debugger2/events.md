@@ -1,14 +1,14 @@
 ---
 description: Experience Platform Debugger イベント画面
-keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+keywords: debugger;experience platform debugger extension;chrome;extension;イベント;dtm;ターゲット
 seo-description: Experience Platform Debugger イベント画面
 seo-title: イベント
 title: イベント
 translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 100%
+source-wordcount: '179'
+ht-degree: 94%
 
 ---
 
