@@ -1,6 +1,6 @@
 ---
 description: Adobe Experience Platform Debugger での「ソリューション」タブの使用
-keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solution;information;analytics;information;ターゲット;オーディエンスマネージャ；media manager;amo;idサービス
 seo-description: 'Adobe Experience Platform Debugger での「ソリューション」タブの使用 '
 seo-title: 'Adobe Experience Platform Debugger の「ソリューション」タブ '
 title: ソリューションタブ
@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '302'
+ht-degree: 92%
 
 ---
 
