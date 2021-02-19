@@ -1,6 +1,6 @@
 ---
 description: Experience Cloud Debugger ツール画面
-keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
+keywords: debugger;experience cloud debugger 拡張機能;chrome;拡張機能;ツール;dtm;target
 seo-description: Experience Cloud Debugger ツール画面
 seo-title: ツール
 title: ツール
@@ -8,7 +8,7 @@ uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '402'
 ht-degree: 100%
 
 ---
