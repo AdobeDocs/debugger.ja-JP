@@ -1,6 +1,6 @@
 ---
 description: Experience Cloud Debugger ネットワーク情報画面
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
+keywords: debugger;experience cloud debugger 拡張機能;chrome;拡張機能;ネットワーク;情報
 seo-description: Experience Cloud Debugger ネットワーク情報画面
 seo-title: ネットワーク情報
 title: ネットワーク情報
@@ -8,7 +8,7 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
