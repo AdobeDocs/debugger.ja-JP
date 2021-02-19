@@ -1,6 +1,6 @@
 ---
 description: Debugger は、Web ページを調べて、Experience Cloud ソリューションの実装方法に関する問題を見つけるのを支援します。
-keywords: debugger;experience cloud debugger extension;chrome;extension
+keywords: debugger;experience cloud debugger 拡張機能;chrome;拡張機能
 seo-description: Adobe Experience Cloud Debugger Chrome 拡張機能の技術ドキュメント - Web ページを調べて Experience Cloud ソリューションの実装の問題を理解します
 seo-title: Adobe Experience Cloud Debugger Chrome 拡張機能
 title: Adobe Experience Cloud Debugger 拡張機能
@@ -8,7 +8,7 @@ uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '290'
 ht-degree: 100%
 
 ---
