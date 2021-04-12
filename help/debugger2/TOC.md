@@ -8,9 +8,9 @@ user-guide-title: Experience Platform Debugger ヘルプ
 user-guide-description: Web ページで、Experience Platform の実装に関する問題を調べます。
 breadcrumb-title: Platform Debugger ガイド
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 
