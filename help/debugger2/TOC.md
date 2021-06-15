@@ -2,15 +2,14 @@
 cloud: Experience Platform
 product: experience platform
 sub-product: Experience Platform Debugger
-solution: Experience Platform, Data Collection
+solution: Experience Platform, Data Collection, Debugger
 audience: end-user
 user-guide-title: Experience Platform Debugger ヘルプ
 user-guide-description: Web ページで、Experience Platform の実装に関する問題を調べます。
 breadcrumb-title: Platform Debugger ガイド
 index: true
-translation-type: ht
-source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
-workflow-type: ht
+source-git-commit: b2298a5923c246fb6394af6bee76a8f24ea5ddd9
+workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
 
@@ -21,7 +20,7 @@ ht-degree: 100%
 
 + [Adobe Experience Platform Debugger 拡張機能](experience-cloud-debugger.md)
 + [リリースノート](release-notes.md)
-+ [ Experience Platform Debugger のインストール ](install-debugger.md)
++ [Experience Platform Debugger のインストール](install-debugger.md)
 + [Experience Platform Debugger の設定](configure-debugger.md)
 + [概要画面](summary.md)
 + [ソリューション](solutions.md)
