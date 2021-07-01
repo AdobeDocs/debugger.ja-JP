@@ -1,19 +1,18 @@
 ---
 description: Experience Platform Debugger イベント画面
-keywords: debugger;experience platform debugger extension;chrome;extension;イベント;dtm;ターゲット
+keywords: debugger;experience platform debugger拡張機能；chrome；拡張機能；イベント；dtm;target
 seo-description: Experience Platform Debugger イベント画面
 seo-title: イベント
 title: イベント
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 94%
+source-wordcount: '181'
+ht-degree: 87%
 
 ---
 
-
-# イベント {#events}
+# イベント{#events}
 
 >[!IMPORTANT]
 >
@@ -40,10 +39,10 @@ ht-degree: 94%
 
    ![](assets/event-datalayer.jpg)
 
-1. 「**[!UICONTROL Save]**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 データレイヤーの変更の詳細には、削除または追加された内容が表示されます。**{}** をクリックすると、データレイヤーの詳細を確認できます。
 
 ## イベント情報のダウンロード
 
-**[!UICONTROL Download]** をクリックして、ページ呼び出しに関する情報を示す Excel ファイルをダウンロードします。
+**[!UICONTROL ダウンロード]**&#x200B;をクリックして、ページ呼び出しに関する情報を示すExcelファイルをダウンロードします。
