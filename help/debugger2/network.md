@@ -1,26 +1,25 @@
 ---
 description: Experience Platform Debugger ネットワーク画面
-keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+keywords: debugger;experience Platform Debugger拡張機能；chrome；拡張機能；ネットワーク；情報
 seo-description: Experience Platform Debugger ネットワーク画面
 seo-title: ネットワーク情報
 title: ネットワーク情報
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+exl-id: ed0579ef-ec26-43df-9453-a395c105038a
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 96%
+source-wordcount: '241'
+ht-degree: 87%
 
 ---
 
-
-# ネットワーク {#network}
+# ネットワーク{#network}
 
 >[!IMPORTANT]
 >
 >Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
-ネットワーク情報を表示するには、**[!UICONTROL Network]** をクリックします。
+ネットワーク情報を表示するには、「**[!UICONTROL ネットワーク]**」をクリックします。
 
 ネットワーク画面は、ページでのすべての Adobe Experience Cloud ソリューション呼び出しを集計して、左から右の順に表示します。標準パラメーターは、わかりやすい名前で自動的にラベル付けされ、同じ役割の共通パラメーターにグループ化されて配置されます。
 
@@ -36,7 +35,7 @@ ht-degree: 96%
 
 ![](assets/network-analytics.jpg)
 
-すべてのソリューションの表示に戻るには、**[!UICONTROL Network]** をクリックします。
+すべてのソリューションの表示に戻るには、**[!UICONTROL をクリックします。ネットワーク]**
 
 ネットワーク表示の項目をクリックすると、展開されて表示されます。展開された表示ウィンドウから、表示された情報をクリップボードにコピーできます。
 
@@ -46,6 +45,6 @@ ht-degree: 96%
 
 ![](assets/copy.jpg)-->
 
-リストを消去するには、**[!UICONTROL Remove Events]** をクリックします。
+リストを消去するには、「**[!UICONTROL イベントを削除]**」をクリックします。
 
-この画面に関する情報を含む Excel ファイルをダウンロードするには、**[!UICONTROL Download]** をクリックします。
+この画面に関する情報を含むExcelファイルをダウンロードするには、「**[!UICONTROL ダウンロード]**」をクリックします。
