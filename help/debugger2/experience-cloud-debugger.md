@@ -13,7 +13,7 @@ ht-degree: 97%
 
 ---
 
-# （ベータ版）Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
+# （ベータ版）Adobe Experience Platform Debugger  {#adobe-experience-platform-debugger}
 
 >[!IMPORTANT]
 >
