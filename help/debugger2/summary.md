@@ -1,20 +1,19 @@
 ---
 description: Experience Platform Debugger 概要画面
-keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;ターゲット;dtm;オーディエンスマネージャ；launch;idサービス
+keywords: debugger;experience Platform Debugger拡張機能；chrome；拡張機能；概要；クリア；リクエスト；概要画面；ソリューション；情報；analytics;target;DTM;audience manager;launch;idサービス
 seo-description: Experience Platform Debugger 概要画面
 seo-title: 概要画面
 title: 概要画面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
 source-wordcount: '979'
 ht-degree: 97%
 
 ---
 
-
-# 概要画面 {#summary-screen}
+# 概要画面{#summary-screen}
 
 >[!IMPORTANT]
 >
@@ -203,4 +202,3 @@ Experience Platform Debugger には、各ソリューションについて以下
   </tr> 
  </tbody> 
 </table>
-
