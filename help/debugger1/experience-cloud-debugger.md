@@ -13,7 +13,7 @@ ht-degree: 92%
 
 ---
 
-# Adobe Experience Cloud Debugger 拡張機能 {#adobe-experience-cloud-debugger-extension}
+# Adobe Experience Cloud Debugger 拡張機能{#adobe-experience-cloud-debugger-extension}
 
 [Chrome 用 Adobe Experience Cloud Debugger 拡張機能](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)は Web ページを調べ、ユーザーが Experience Cloud ソリューションの実装方法に関する問題を見つけるのを支援します。
 
