@@ -5,16 +5,15 @@ seo-description: Experience Cloud Debugger の実行
 seo-title: 概要画面
 title: 概要画面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1069'
-ht-degree: 100%
+source-wordcount: '1080'
+ht-degree: 97%
 
 ---
 
-
-# 概要画面 {#summary-screen}
+# 概要画面{#summary-screen}
 
 Adobe Experience Cloud Debugger を実行するには、拡張機能バーにある拡張機能アイコンをクリックし、Chrome で調べたいページを開きます。
 
@@ -26,7 +25,7 @@ Adobe Experience Cloud Debugger を実行するには、拡張機能バーにあ
 
 この画面には、ページのサムネール、URL およびタイトルが表示されます。また、各 Adobe Experience Cloud ソリューションに関する情報が表示されます。表示される情報はソリューションによって異なりますが、通常、ソリューションライブラリおよびバージョン（例：「AppMeasurement v2.9」）およびアカウント識別子（Analytics レポートスイート ID、Target クライアントコード、Audience Manager パートナー ID など）の情報が含まれます。
 
-ウィンドウの上部にあるタブの隣の青い番号は、おこなわれたサーバー呼び出しの数を表します。各タブ内の&#x200B;**[!UICONTROL Clear All Requests]**&#x200B;をクリックすることで、これらをゼロにリセットできます。
+ウィンドウの上部にあるタブの隣の青い番号は、おこなわれたサーバー呼び出しの数を表します。各タブ内の「**[!UICONTROL すべてのリクエストをクリア]**」をクリックすることで、これらをゼロにリセットできます。
 
 例えば、以下の画像は、Adobe Target に関する情報を表しています。以下の図に示すアクティビティの詳細を認証なしで表示するには、コードまたはタグマネージャーで Debugging イベントリスナーを実装し、Target UI で必要な[レスポンストークン](https://docs.adobe.com/content/help/ja-JP/target/using/administer/response-tokens.html)をオンにする必要があります。
 
@@ -34,7 +33,7 @@ Adobe Experience Cloud Debugger を実行するには、拡張機能バーにあ
 
 ## Adobe Experience Platform Auditor で監査を実行する {#section-82bc57440406461ebf27a16855b71655}
 
-Platform Auditor を使用して、ページで一連の監査を実行できます。Platform Auditor を実行するには、上部のメニューの「**[!UICONTROL Auditor]**」をクリックしてから、「**[!UICONTROL Audit Page Now]**」をクリックします。Platform Auditor を開くには、「**[!UICONTROL Run Multi-Page Audit Now]**」をクリックします。
+Platform Auditor を使用して、ページで一連の監査を実行できます。Platform Auditorを実行するには、上部のメニューの「**[!UICONTROL Auditor]**」をクリックし、「**[!UICONTROL 今すぐページを監査]**」をクリックします。 Platform Auditorを開くには、「**[!UICONTROL 今すぐ複数ページの監査を実行]**」をクリックします。
 
 ## Experience Cloud Debugger に表示される情報 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
@@ -220,4 +219,3 @@ Experience Cloud Debugger には、各ソリューションについて以下の
   </tr> 
  </tbody> 
 </table>
-
