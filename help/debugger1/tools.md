@@ -5,22 +5,21 @@ seo-description: Experience Cloud Debugger ツール画面
 seo-title: ツール
 title: ツール
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+exl-id: ad108515-030f-4790-a29c-70f82e58a55d
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '405'
 ht-degree: 100%
 
 ---
 
-
-# ツール {#tools}
+# ツール{#tools}
 
 ツール画面では、インストールしたソリューション用の様々なツールを有効または無効にできます。例えば、Target のコンソールデバッグステートメントをオンにしたり、DTM ステージング用ライブラリを使用したりできます。これらのツールは、Target および DTM がページにインストールされている場合にのみ使用できます。
 
 ![](assets/tools.jpg)
 
-任意のページで Adobe Experience Platform Launch または DTM を動的に挿入して、Platform Launch または DTM がインストールされていないページをテストできます。**[!UICONTROL Embed Code]** アイコンをクリックして、[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/dtm/using/client-side/deployment.html)を入力し、**[!UICONTROL Save]** をクリックします。
+任意のページで Adobe Experience Platform Launch または DTM を動的に挿入して、Platform Launch または DTM がインストールされていないページをテストできます。**[!UICONTROL 埋め込みコード]**&#x200B;アイコンをクリックして、[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/dtm/using/client-side/deployment.html)を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
 ![](assets/tools-embedcode.jpg)
 
