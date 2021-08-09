@@ -7,8 +7,8 @@ title: イベント
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 87%
+source-wordcount: '179'
+ht-degree: 94%
 
 ---
 
@@ -39,10 +39,10 @@ ht-degree: 87%
 
    ![](assets/event-datalayer.jpg)
 
-1. 「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL Save]**」をクリックします。
 
 データレイヤーの変更の詳細には、削除または追加された内容が表示されます。**{}** をクリックすると、データレイヤーの詳細を確認できます。
 
 ## イベント情報のダウンロード
 
-**[!UICONTROL ダウンロード]**&#x200B;をクリックして、ページ呼び出しに関する情報を示すExcelファイルをダウンロードします。
+**[!UICONTROL Download]** をクリックして、ページ呼び出しに関する情報を示す Excel ファイルをダウンロードします。
