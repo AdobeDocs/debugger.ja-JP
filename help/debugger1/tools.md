@@ -8,7 +8,7 @@ uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 exl-id: ad108515-030f-4790-a29c-70f82e58a55d
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '402'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ![](assets/tools.jpg)
 
-任意のページで Adobe Experience Platform Launch または DTM を動的に挿入して、Platform Launch または DTM がインストールされていないページをテストできます。**[!UICONTROL 埋め込みコード]**&#x200B;アイコンをクリックして、[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/dtm/using/client-side/deployment.html)を入力し、「**[!UICONTROL 保存]**」をクリックします。
+任意のページで Adobe Experience Platform Launch または DTM を動的に挿入して、Platform Launch または DTM がインストールされていないページをテストできます。**[!UICONTROL Embed Code]** アイコンをクリックして、[埋め込みコード](https://docs.adobe.com/content/help/ja-JP/dtm/using/client-side/deployment.html)を入力し、**[!UICONTROL Save]** をクリックします。
 
 ![](assets/tools-embedcode.jpg)
 
