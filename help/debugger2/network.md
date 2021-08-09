@@ -8,8 +8,8 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 87%
+source-wordcount: '236'
+ht-degree: 96%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 87%
 >
 >Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
-ネットワーク情報を表示するには、「**[!UICONTROL ネットワーク]**」をクリックします。
+ネットワーク情報を表示するには、**[!UICONTROL Network]** をクリックします。
 
 ネットワーク画面は、ページでのすべての Adobe Experience Cloud ソリューション呼び出しを集計して、左から右の順に表示します。標準パラメーターは、わかりやすい名前で自動的にラベル付けされ、同じ役割の共通パラメーターにグループ化されて配置されます。
 
@@ -35,7 +35,7 @@ ht-degree: 87%
 
 ![](assets/network-analytics.jpg)
 
-すべてのソリューションの表示に戻るには、**[!UICONTROL をクリックします。ネットワーク]**
+すべてのソリューションの表示に戻るには、**[!UICONTROL Network]** をクリックします。
 
 ネットワーク表示の項目をクリックすると、展開されて表示されます。展開された表示ウィンドウから、表示された情報をクリップボードにコピーできます。
 
@@ -45,6 +45,6 @@ ht-degree: 87%
 
 ![](assets/copy.jpg)-->
 
-リストを消去するには、「**[!UICONTROL イベントを削除]**」をクリックします。
+リストを消去するには、**[!UICONTROL Remove Events]** をクリックします。
 
-この画面に関する情報を含むExcelファイルをダウンロードするには、「**[!UICONTROL ダウンロード]**」をクリックします。
+この画面に関する情報を含む Excel ファイルをダウンロードするには、**[!UICONTROL Download]** をクリックします。
