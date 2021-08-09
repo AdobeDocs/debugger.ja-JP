@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1102'
-ht-degree: 98%
+source-wordcount: '1085'
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 98%
 
 **リンクされたアカウント（レガシー）**
 
-「**[!UICONTROL アカウントをリンク]**」をクリックし、AnalyticsアカウントをPlatform Debuggerにリンクするために必要な情報を入力します。
+**[!UICONTROL Link Account]** をクリックして、Analytics アカウントを Platform Debugger にリンクするために必要な情報を入力します。
 
 >[!NOTE]
 >
@@ -63,11 +63,11 @@ ht-degree: 98%
 
 「Target」タブを使用して、[Target](https://docs.adobe.com/content/help/ja-JP/target/using/target-home.html) リクエストまたは [Mbox Trace](https://docs.adobe.com/content/help/ja-JP/target/using/activities/troubleshoot-activities/content-trouble.html) 応答の詳細を表示します。
 
-「**[!UICONTROL リクエスト]**」をクリックし、環境を展開して Target に関する情報を表示します。
+**[!UICONTROL Requests]**&#x200B;をクリックし、環境を展開して Target に関する情報を表示します。
 
 ![](assets/target-requests.jpg)
 
-「**[!UICONTROL すべてのリクエストをクリア]**」をクリックして、現在表示しているリクエストを削除します。作成したリクエスト量に応じて、より多くのリクエストが表示されます。
+**[!UICONTROL Clear All Requests]**&#x200B;をクリックして、現在表示されているリクエストを削除します。作成したリクエスト量に応じて、より多くのリクエストが表示されます。
 
 また、Target フィルターを使用して、[Target デバッグ目的で Mbox Trace を有効にする](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)こともできます。
 
@@ -99,7 +99,7 @@ Mbox Trace を有効にするには、開いている Chrome タブで Experienc
 
 ![](assets/audience-manager.jpg)
 
-「**[!UICONTROL すべてのイベントをクリア]**」をクリックして、表示された情報をリセットします。新しいイベントが発生するたびに表示されます。
+**[!UICONTROL Clear All Events]**&#x200B;をクリックして、表示された情報をリセットします。新しいイベントが発生するたびに表示されます。
 
 **ID 同期**
 
@@ -113,14 +113,14 @@ ID 同期は、受信の非同期データ転送プロセスの最初のステ�
 
 「Advertising Cloud」タブを使用して、Advertising Cloud リクエストを表示します。
 
-「**[!UICONTROL リクエスト]**」をクリックし、環境を展開して Advertising Cloud に関する情報を表示します。
+**[!UICONTROL Requests]**&#x200B;をクリックし、環境を展開して Advertising Cloud に関する情報を表示します。
 
-「**[!UICONTROL すべてのリクエストをクリア]**」をクリックして、現在表示しているリクエストを削除します。作成したリクエスト量に応じて、より多くのリクエストが表示されます。
+**[!UICONTROL Clear All Requests]**&#x200B;をクリックして、現在表示されているリクエストを削除します。作成したリクエスト量に応じて、より多くのリクエストが表示されます。
 
 ## Experience Cloud ID サービス {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 「Experience Cloud ID サービス」タブを使用して、[Experience Cloud ID サービス](https://docs.adobe.com/content/help/ja-JP/id-service/using/home.html)リクエストを表示します。
 
-「**[!UICONTROL リクエスト]**」をクリックし、環境を展開して Experience Cloud ID サービスに関する情報を表示します。
+**[!UICONTROL Requests]**&#x200B;をクリックし、環境を展開して Experience Cloud ID サービスに関する情報を表示します。
 
-「**[!UICONTROL すべてのリクエストをクリア]**」をクリックして、現在表示しているリクエストを削除します。作成したリクエスト量に応じて、より多くのリクエストが表示されます。
+**[!UICONTROL Clear All Requests]**&#x200B;をクリックして、現在表示されているリクエストを削除します。作成したリクエスト量に応じて、より多くのリクエストが表示されます。
