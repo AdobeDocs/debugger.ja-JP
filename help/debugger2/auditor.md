@@ -6,8 +6,8 @@ title: Auditor
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 78%
+source-wordcount: '91'
+ht-degree: 89%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 78%
 
 Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/ja-JP/auditor/using/overview.html) を使用して、Auditor 画面からページに対して一連の監査を実行できます。
 
-1. 左側のナビゲーションで「**[!UICONTROL Auditor]**」をクリックします。
-1. 「**[!UICONTROL Auditorテストを実行]**」をクリックします。
+1. 左側のナビゲーションで **[!UICONTROL Auditor]** をクリックします。
+1. 「**[!UICONTROL Run Auditor Tests]**」をクリックします。
 
 テスト結果が表示されます。
 
