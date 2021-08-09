@@ -28,7 +28,7 @@ ht-degree: 92%
 
 Web ページ上で Debugger を実行できますが、開いている Chrome タブのいずれかで Experience Cloud に認証されている場合のみ、拡張機能で非公開データを使用できます。
 
-## 使用例 {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## ユースケース {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 Debugger を使用して、Experience Cloud ソリューションの実装方法を理解するのに役立つ情報を収集します。以下に例を示します。
 
