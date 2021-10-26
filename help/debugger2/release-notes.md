@@ -6,16 +6,39 @@ seo-title: Release Notes
 title: リリースノート
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 016054f3cd47b9089afbdfbe75c5beec6945ce56
+source-git-commit: 026ce852ded530e89f36bb01274d7481e07731c0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 12%
+source-wordcount: '234'
+ht-degree: 10%
 
 ---
 
 # リリースノート{#release-notes}
 
 ## リリースノート {#topic-a92c3eb799b74e7fa404af8af5efb215}
+
+## バージョン 1.2.0 - 2021 年 10 月 26 日
+
+## 新機能
+
+<table id="table">
+ <thead>
+  <tr>
+   <th colname="col1" class="entry"> 機能 </th>
+   <th colname="col2" class="entry"> 説明 </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colname="col1"> <p> ネットワークビューに表示されるすべてのブラウザータブのイベント </p> </td>
+   <td colname="col2"> <p> ネットワークビューのすべてのブラウザータブのイベントを表示します。 現在のタブのイベントのみを表示するには、デバッガーの右下隅にあるロックアイコンをクリックします。</p> </td>
+  </tr>
+  <tr>
+   <td colname="col1"> <p> ブランディングの変更 </p> </td>
+   <td colname="col2"> <p> AEP Web SDK はAdobe Experience Platform Web SDK に、Launch はAdobe Experience Platform Tags になります。</p> </td>
+  </tr>
+ </tbody>
+</table>
 
 ## バージョン 1.1.0 2021 年 10 月 6 日
 
@@ -31,7 +54,7 @@ ht-degree: 12%
  <tbody>
   <tr>
    <td colname="col1"> <p> リモートデバッグビジュアライゼーション </p> </td>
-   <td colname="col2"> <p> リモートデバッグイベントを、Adobe Experience Platform Web SDK/「エッジトランザクション」セクションの視覚的なフローチャートに整理します。 また、新しいリモートデバッグセッションを開始する際に、ページで使用するAdobe Experience Platform Web SDK IMS 組織が、ログイン組織と一致するようにする必要があります。 接続されたタブでエッジトランザクションをフィルタリングします。</p> <p> <b>注意：</b> Target トレースログは、引き続きログ/エッジセクションで利用できます。</p> </td>
+   <td colname="col2"> <p> リモートデバッグイベントを、Adobe Experience Platform Web SDK/「エッジトランザクション」セクションの視覚的なフローチャートに整理します。 また、新しいリモートデバッグセッションを開始する際に、ページで使用するAdobe Experience Platform Web SDK IMS 組織が、ログイン組織と一致するようにする必要があります。 接続されたタブでエッジトランザクションをフィルタリングします。</p> <p> <b>注意：</b> Target トレースログは、ログ/エッジセクションで引き続き利用できます。</p> </td>
   </tr>
   <tr>
    <td colname="col1"> <p> Adobe Experience Platform Web SDK の設定セクションの改善 </p> </td>
