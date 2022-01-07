@@ -6,10 +6,10 @@ seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud Debugger 拡張機能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: bb3891dabd8721fe9e81bffac8e97fd2866b676b
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 85%
+source-wordcount: '262'
+ht-degree: 84%
 
 ---
 
@@ -17,15 +17,14 @@ ht-degree: 85%
 
 >[!IMPORTANT]
 >
->現在、新しいバージョンの Debugger を使用できます。 新しいAdobe Experience Platform Debugger は、 [here](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob).
+>現在利用可能な Debugger の新しいバージョンがあります。 新しいAdobe Experience Platform Debugger は、 [ここ](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob).
 
 [Chrome 用 Adobe Experience Cloud Debugger 拡張機能](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)は Web ページを調べ、ユーザーが Experience Cloud ソリューションの実装方法に関する問題を見つけるのを支援します。
 
 以下のようなワークフローに対して、他の Adobe Activation ソリューションと共に Adobe Experience Cloud Debugger 拡張機能を使用します。
 
-1. 用途 [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=ja) を起動するコードを挿入する [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) ソリューションを使用して、
-
-1. [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/ja-JP/auditor/using/overview.html) を使用して実装をテストします。
+1. 用途 [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=ja) 有効にするコードを挿入するには [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) ソリューションを使用して、
+1. Adobe Experience Platform Auditor を使用して実装をテストします。
 1. Adobe Experience Cloud Debugger 拡張機能を使用して、Auditor によって検出された問題をデバッグしたり、実装に関する他の情報を調べたりします。
 
 上記の手順は、この順番で実行する必要はありませんが、共通のプロセスです。

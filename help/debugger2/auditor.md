@@ -1,29 +1,28 @@
 ---
-description: Experience Platform Auditor について
-keywords: debugger;experience platform debugger拡張機能；chrome；拡張機能；auditor;dtm;target
-seo-description: Experience Platform Auditor について
 title: Auditor
+description: Adobe Experience Platform Debugger の「Auditor」タブを使用してAdobe Experience Cloudの実装をテストする方法を説明します。
+keywords: debugger;experience platform debugger 拡張機能；chrome；拡張機能；auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 89%
+source-wordcount: '111'
+ht-degree: 32%
 
 ---
 
-# Auditor {#auditor}
+# Auditor
 
 >[!IMPORTANT]
 >
 >Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
 
-Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/ja-JP/auditor/using/overview.html) を使用して、Auditor 画面からページに対して一連の監査を実行できます。
+Adobe Experience Platform Debugger で、 **[!UICONTROL Auditor]** タブを使用して、ページに対して一連の監査テストを実行します。
 
-1. 左側のナビゲーションで **[!UICONTROL Auditor]** をクリックします。
-1. 「**[!UICONTROL Run Auditor Tests]**」をクリックします。
+この機能を使用するには：
 
-テスト結果が表示されます。
+1. 選択 **[!UICONTROL Auditor]** をクリックします。
+1. **[!UICONTROL Run Auditor Tests]** を選択します。テストが完了すると、その結果は次のように表示されます。
 
-![](assets/auditor-results.jpg)
+![「Auditor」タブのテスト結果のスクリーンショット](./assets/auditor-results.png)
 
 結果リストには、テストとその結果が表示され、問題を解決するための提案が示されます。
