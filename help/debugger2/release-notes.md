@@ -6,10 +6,10 @@ seo-title: Release Notes
 title: リリースノート
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 026ce852ded530e89f36bb01274d7481e07731c0
+source-git-commit: 3cff0a4199d58fa18b89af42d77813f38f30b512
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 10%
+source-wordcount: '287'
+ht-degree: 3%
 
 ---
 
@@ -17,71 +17,31 @@ ht-degree: 10%
 
 ## リリースノート {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
-## バージョン 1.2.0 - 2021 年 10 月 26 日
+## バージョン 1.3.0 - 2022 年 1 月 28 日
 
-## 新機能
+* 最新のリリースバージョンとメモを表示するための「バージョン情報」リンクを追加しました。
+* Analytics リクエストの後処理されたヒットを表示する切り替え機能を追加しました。 切り替えは、「Analytics」セクションで使用できます。
+* デバッガー外でセッションが閉じられた際のリモートデバッグセッションの問題を修正しました。
+* 「Web SDK Edge Transactions」タブに表示されるエラー通知を修正しました。
+* デバッガーが_satellite オブジェクトにアクセスした際の、ページ廃止の警告に関するAdobeタグを修正しました。
+* AppMeasurement インスタンスがページで見つからない場合があった問題を修正しました。
+* デバッガーウィンドウを初めて開いたときに発生するページ接続の問題を修正しました。
 
-<table id="table">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> 機能 </th>
-   <th colname="col2" class="entry"> 説明 </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> ネットワークビューに表示されるすべてのブラウザータブのイベント </p> </td>
-   <td colname="col2"> <p> ネットワークビューのすべてのブラウザータブのイベントを表示します。 現在のタブのイベントのみを表示するには、デバッガーの右下隅にあるロックアイコンをクリックします。</p> </td>
-  </tr>
-  <tr>
-   <td colname="col1"> <p> ブランディングの変更 </p> </td>
-   <td colname="col2"> <p> AEP Web SDK はAdobe Experience Platform Web SDK に、Launch はAdobe Experience Platform Tags になります。</p> </td>
-  </tr>
- </tbody>
-</table>
+## バージョン 1.2.0 - 2021 年 10 月 27 日
 
-## バージョン 1.1.0 2021 年 10 月 6 日
+* ネットワーク表示のすべてのブラウザータブからイベントを表示します。 現在のタブでのみイベントを表示するには、デバッガーの右下隅にあるロックアイコンをクリックします。
+* ブランディングを更新しました。
 
-## 新機能
+## バージョン 1.1.0 - 2021 年 10 月 6 日
 
-<table id="table">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> 機能 </th>
-   <th colname="col2" class="entry"> 説明 </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> リモートデバッグビジュアライゼーション </p> </td>
-   <td colname="col2"> <p> リモートデバッグイベントを、Adobe Experience Platform Web SDK/「エッジトランザクション」セクションの視覚的なフローチャートに整理します。 また、新しいリモートデバッグセッションを開始する際に、ページで使用するAdobe Experience Platform Web SDK IMS 組織が、ログイン組織と一致するようにする必要があります。 接続されたタブでエッジトランザクションをフィルタリングします。</p> <p> <b>注意：</b> Target トレースログは、ログ/エッジセクションで引き続き利用できます。</p> </td>
-  </tr>
-  <tr>
-   <td colname="col1"> <p> Adobe Experience Platform Web SDK の設定セクションの改善 </p> </td>
-   <td colname="col2"> <p> ページ上の各インスタンスに対して別々のデータストリーム ID 設定の上書きを許可します。 デバッグ対応切り替えを追加しました。</p> </td>
-  </tr>
- </tbody>
-</table>
+* リモートデバッグビジュアライゼーション — Adobe Experience Platform Web SDK/「エッジトランザクション」セクションで、リモートデバッグイベントを視覚的なフローチャートに整理します。
+* 新しいリモートデバッグセッションを開始する際に、ページで使用するAdobe Experience Platform Web SDK IMS 組織が、ログイン組織と一致する必要があります。
+* 接続されたタブのエッジトランザクションのみを表示します。
 
-## バグの修正
-
-* Adobe Experience Platform Web SDK のリモートデバッグセッションでAdobe Targetトレーストークンが送信されない場合がある問題を修正しました。
+> **注意：** Target のトレースログは、ログ/Edge セクションで引き続き利用できます。
+* ページ上のAdobe Experience Platform Web SDK のインスタンスごとに、別々のデータストリーム ID 設定の上書きを許可します。 デバッグ対応切り替えを追加します。
+* Adobe Experience Platform Web SDK のリモートデバッグセッションで、Adobe Targetトレーストークンが送信されない場合がある問題を修正しました。
 
 ## バージョン 1.0.0 2021 年 5 月 6 日
 
-## 新機能
-
-<table id="table_7EFCAF456B14404FAF3715FC56519AAF">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> 機能 </th>
-   <th colname="col2" class="entry"> 説明 </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> 初回リリース </p> </td>
-   <td colname="col2"> <p> Debugger の最初のメインリリースです。Experience Platform Experience Cloud Debugger </p> </td>
-  </tr>
- </tbody>
-</table>
+* Debugger の最初のメインリリースです。 Experience Cloud Debugger。
