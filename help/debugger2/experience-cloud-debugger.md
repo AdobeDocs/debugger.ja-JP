@@ -6,7 +6,7 @@ seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Adobe Experience Platform Debugger 拡張機能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
+source-git-commit: af031b800b991e0e906e9abda88992f093c58fbc
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 27%
@@ -24,7 +24,7 @@ ht-degree: 27%
 Platform Debugger を他のプラットフォームアクティベーションソリューションと共にAdobeを使用して、以下を実行できます。
 
 1. 用途 [タグ](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=ja) データ収集 UI のを使用して、 [Adobe Experience Cloud](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html) 製品を貼り付けます。
-1. 以下を使用： [**[!UICONTROL Auditor]**タブ](./auditor.md) Platform Debugger で実装をテストします。
+1. 以下を使用： [**[!UICONTROL Auditor]**タブ](./auditor/overview.md) Platform Debugger で実装をテストします。
 1. Platform Debugger のイベントベースおよびソリューション固有のツールを使用して、Auditor によって検出された問題をデバッグしたり、実装に関する他の情報を調べたりします。
 
 >[!NOTE]
