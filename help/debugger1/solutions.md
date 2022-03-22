@@ -1,15 +1,15 @@
 ---
 description: Adobe Debugger でのソリューションタブの使用
 keywords: debugger;experience cloud debugger 拡張機能;chrome;拡張機能;サマリ;クリア;リクエスト;ソリューション;ソリューション;情報;analytics;target;audience manager;media manager;amo;id サービス
-seo-description: Adobe Debugger でのソリューションタブの使用
-seo-title: Adobe Debugger のソリューションタブ
-title: ソリューションタブ
+seo-description: Using the Solution tabs in Adobe Debugger
+seo-title: Solution Tabs in Adobe Debugger
+title: Experience Cloud Debuggerのソリューションタブ
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 100%
+source-wordcount: '1077'
+ht-degree: 99%
 
 ---
 
