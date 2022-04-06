@@ -1,32 +1,28 @@
 ---
-description: Experience Platform Debugger イベント画面
-keywords: debugger;experience platform debugger拡張機能；chrome；拡張機能；イベント；dtm;target
-seo-description: Experience Platform Debugger イベント画面
-seo-title: イベント
-title: イベント
+description: Adobe Experience Platform Debugger での「イベント」タブの使用方法について説明します。
+keywords: debugger;experience platform debugger 拡張機能；chrome；拡張機能；イベント；dtm;target
+seo-description: Experience Platform Debugger Events Screen
+seo-title: Events
+title: 「イベント」タブ
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 94%
+source-wordcount: '165'
+ht-degree: 42%
 
 ---
 
-# イベント{#events}
+# 「イベント」タブ
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
-
-イベント画面では、発生したイベントのグラフィックがタイムラインに表示されます。
+この **イベント** 「 」タブには、発生したイベントのグラフィカルな表示がタイムラインに表示されます。
 
 ![](assets/events.jpg)
 
-各イベントに対して、該当する ソリューションのアイコンがタイムラインに表示されます。アイコンは、データレイヤーに対する変更も表示するようになりました（有効になっている場合）。イベントの概要を表示するアイコンの上にマウスポインターを置きます。イベントをクリックして詳細を表示します。複数のイベントを表示するには、Shift キーまたは Control キーを押しながらクリックします。
+各イベントに対して、該当する ソリューションのアイコンがタイムラインに表示されます。アイコンは、データレイヤーに対する変更も表示するようになりました（有効になっている場合）。イベントの概要を表示するアイコンの上にマウスポインターを置きます。イベントを選択して詳細を表示します。 複数のイベントを表示するには、Shift キーを押しながら選択または Ctrl キーを押しながら選択します。
 
 ![](assets/events-details.jpg)
 
-詳細をクリックして表示します。
+詳細を選択して詳細を表示します。
 
 ![](assets/events-details-more.jpg)
 
@@ -34,15 +30,15 @@ ht-degree: 94%
 
 タイムラインでデータレイヤーの変更の追跡を有効にするには、次の手順を実行します。
 
-1. 右上の歯車アイコンをクリックします。
+1. 右上の歯車アイコンを選択します。
 1. データレイヤーの名前を入力します。
 
    ![](assets/event-datalayer.jpg)
 
-1. 「**[!UICONTROL Save]**」をクリックします。
+1. **[!UICONTROL Save]** を選択します。
 
-データレイヤーの変更の詳細には、削除または追加された内容が表示されます。**{}** をクリックすると、データレイヤーの詳細を確認できます。
+データレイヤーの変更の詳細には、削除または追加された内容が表示されます。次を選択できます。 **{}** を使用して、データレイヤーの詳細を調べます。
 
 ## イベント情報のダウンロード
 
-**[!UICONTROL Download]** をクリックして、ページ呼び出しに関する情報を示す Excel ファイルをダウンロードします。
+選択 **[!UICONTROL Download]** をクリックして、ページ呼び出しに関する情報を示す excel ファイルをダウンロードします。

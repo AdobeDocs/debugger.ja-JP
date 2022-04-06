@@ -1,31 +1,23 @@
 ---
-description: Experience Platform Debugger のインストールについて
-keywords: debugger;experience Platform Debugger拡張機能；chrome；拡張機能；インストール
-seo-description: Experience Platform Debugger のインストールについて
-seo-title: Experience Platform Debugger のインストール
-title: Experience Platform Debugger のインストール
+title: Platform Debugger のインストール
+description: Adobe Experience Platform Debugger のインストール方法を説明します。
+keywords: debugger;experience Platform Debugger 拡張機能；chrome；拡張機能；インストール
+seo-description: How to Install Experience Platform Debugger
+seo-title: Install Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 exl-id: add83773-dad7-4abe-9740-a69eb8fadbc3
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 92%
+source-wordcount: '87'
+ht-degree: 16%
 
 ---
 
-# Adobe Experience Platform Debugger のインストール {#install-experience-platform-debugger}
+# Platform Debugger のインストール
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
+Adobe Experience Platform Debugger は、Google Chrome または Mozilla Firefox ブラウザーにインストールできます。次の適切なリンクに従って、目的のブラウザーに拡張機能をインストールします。
 
-Adobe Experience Platform Debugger をダウンロードしてインストールします。
+* [Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
+* [Firefox](https://addons.mozilla.org/ja/firefox/addon/adobe-experience-platform-dbg/)
 
-* **Chrome：**[Chrome 拡張機能ページ](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)から
-* **Firefox：**[Firefox アドオンページ](https://addons.mozilla.org/ja/firefox/addon/adobe-experience-platform-dbg/)から
-
-Chrome 拡張機能または Firefox アドオンをインストールすると、拡張機能バーにアイコンが追加されます。
-
-![](assets/start-icon.jpg)
-
-アイコンをクリックして Experience Platform Debugger を起動します。
+Chrome 拡張機能または Firefox アドオンをインストールすると、アイコン (![](assets/start-icon.jpg)) が拡張機能バーに追加されます。 このアイコンを選択して、拡張機能を開きます。

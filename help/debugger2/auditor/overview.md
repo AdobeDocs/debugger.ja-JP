@@ -1,20 +1,16 @@
 ---
-title: Auditor
+title: 「監査」タブ
 description: Adobe Experience Platform Debugger の「Auditor」タブを使用してAdobe Experience Cloudの実装をテストする方法を説明します。
 keywords: debugger;experience platform debugger 拡張機能；chrome；拡張機能；auditor;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 36%
+source-wordcount: '358'
+ht-degree: 32%
 
 ---
 
-# Auditor
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
+# 「監査」タブ
 
 Adobe Experience Platform Debugger で、 **[!UICONTROL Auditor]** タブを使用して、ページに対して一連の監査テストを実行します。
 

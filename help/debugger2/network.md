@@ -1,27 +1,21 @@
 ---
-description: Experience Platform Debugger ネットワーク画面
-keywords: debugger;experience Platform Debugger拡張機能；chrome；拡張機能；ネットワーク；情報
-seo-description: Experience Platform Debugger ネットワーク画面
-seo-title: ネットワーク情報
-title: ネットワーク情報
+title: 「ネットワーク」タブ
+description: Adobe Experience Platform Debugger の「ネットワーク」タブの使用方法について説明します。
+keywords: debugger;experience Platform Debugger 拡張機能；chrome；拡張機能；ネットワーク；情報
+seo-description: Experience Platform Debugger Network screen
+seo-title: Network Tab
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 96%
+source-wordcount: '215'
+ht-degree: 59%
 
 ---
 
-# ネットワーク{#network}
+# 「ネットワーク」タブ
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger は現在ベータ版です。ドキュメントと機能は変更される場合があります。
-
-ネットワーク情報を表示するには、**[!UICONTROL Network]** をクリックします。
-
-ネットワーク画面は、ページでのすべての Adobe Experience Cloud ソリューション呼び出しを集計して、左から右の順に表示します。標準パラメーターは、わかりやすい名前で自動的にラベル付けされ、同じ役割の共通パラメーターにグループ化されて配置されます。
+この **ネットワーク** 「 」タブは、ページでおこなわれたすべてのAdobe Experience Cloudソリューション呼び出しを集計し、左から右の順に表示します。 標準パラメーターは、わかりやすい名前で自動的にラベル付けされ、同じ役割の共通パラメーターにグループ化されて配置されます。
 
 ![](assets/network.jpg)
 
@@ -35,9 +29,9 @@ ht-degree: 96%
 
 ![](assets/network-analytics.jpg)
 
-すべてのソリューションの表示に戻るには、**[!UICONTROL Network]** をクリックします。
+すべてのソリューションの表示に戻るには、「 」を選択します。 **[!UICONTROL Network]**
 
-ネットワーク表示の項目をクリックすると、展開されて表示されます。展開された表示ウィンドウから、表示された情報をクリップボードにコピーできます。
+ネットワーク表示の項目を選択すると、展開された表示が表示されます。 展開された表示ウィンドウから、表示された情報をクリップボードにコピーできます。
 
 ![](assets/network-expand.jpg)
 
@@ -45,6 +39,6 @@ ht-degree: 96%
 
 ![](assets/copy.jpg)-->
 
-リストを消去するには、**[!UICONTROL Remove Events]** をクリックします。
+リストを消去するには、 **[!UICONTROL Remove Events]**.
 
-この画面に関する情報を含む Excel ファイルをダウンロードするには、**[!UICONTROL Download]** をクリックします。
+この画面に関する情報を含む Excel ファイルをダウンロードするには、「 **[!UICONTROL Download]**.

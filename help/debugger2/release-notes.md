@@ -1,19 +1,17 @@
 ---
-description: Experience Platform Debugger リリースノート
+title: リリースノート
+description: Adobe Experience Platform Debugger の最新のリリースノートです。
 keywords: debugger;experience Platform Debugger 拡張機能；chrome；拡張機能；リリースノート
-title: リリースノートExperience PlatformDebugger
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 3%
+source-wordcount: '287'
+ht-degree: 1%
 
 ---
 
-# リリースノート{#release-notes}
-
-## リリースノート {#topic-a92c3eb799b74e7fa404af8af5efb215}
+# リリースノート
 
 ## バージョン 1.3.0 - 2022 年 1 月 28 日
 
@@ -27,16 +25,14 @@ ht-degree: 3%
 
 ## バージョン 1.2.0 - 2021 年 10 月 27 日
 
-* ネットワーク表示のすべてのブラウザータブからイベントを表示します。 現在のタブでのみイベントを表示するには、デバッガーの右下隅にあるロックアイコンをクリックします。
+* ネットワーク表示のすべてのブラウザータブからイベントを表示します。 イベントを現在のタブからのみ表示するには、デバッガーの右下隅にあるロックアイコンを選択します。
 * ブランディングを更新しました。
 
 ## バージョン 1.1.0 - 2021 年 10 月 6 日
 
 * リモートデバッグビジュアライゼーション — Adobe Experience Platform Web SDK/「エッジトランザクション」セクションで、リモートデバッグイベントを視覚的なフローチャートに整理します。
 * 新しいリモートデバッグセッションを開始する際に、ページで使用するAdobe Experience Platform Web SDK IMS 組織が、ログイン組織と一致する必要があります。
-* 接続されたタブのエッジトランザクションのみを表示します。
-
-> **注意：** Target のトレースログは、ログ/Edge セクションで引き続き利用できます。
+* 接続されたタブのエッジトランザクションのみを表示します。 Target のトレースログは、ログ/Edge セクションで引き続き利用できます。
 * ページ上のAdobe Experience Platform Web SDK のインスタンスごとに、別々のデータストリーム ID 設定の上書きを許可します。 デバッグ対応切り替えを追加します。
 * Adobe Experience Platform Web SDK のリモートデバッグセッションで、Adobe Targetトレーストークンが送信されない場合がある問題を修正しました。
 
