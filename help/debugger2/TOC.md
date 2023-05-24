@@ -10,8 +10,8 @@ breadcrumb-title: Platform Debugger ガイド
 index: true
 source-git-commit: b4f705ad457ff5841f1610a01e2e8e40cd54f894
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 * [イベント](events.md)
 * Auditor {#auditor}
    * [概要](./auditor/overview.md)
-   * [整合性テストのタグ付け](./auditor/tag-consistency.md)
-   * [タグの有無のテスト](./auditor/tag-presence.md)
-   * [設定テスト](./auditor/configuration.md)
-   * [アラートテスト](./auditor/alerts.md)
+   * [タグの一貫性に関するテスト](./auditor/tag-consistency.md)
+   * [タグの有無に関するテスト](./auditor/tag-presence.md)
+   * [設定に関するテスト](./auditor/configuration.md)
+   * [アラートに関するテスト](./auditor/alerts.md)

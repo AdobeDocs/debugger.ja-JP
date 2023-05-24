@@ -69,7 +69,7 @@ ht-degree: 99%
 
 **[!UICONTROL Clear All Requests]**&#x200B;をクリックして、現在表示されているリクエストを削除します。作成したリクエスト量に応じて、より多くのリクエストが表示されます。
 
-また、Target フィルターを使用して、[Target デバッグ目的で Mbox Trace を有効にする](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)こともできます。
+また、Target フィルターを使用して、[Target デバッグ目的で Mbox Trace を有効にする](https://docs.adobe.com/content/help/ja-JP/target/using/activities/troubleshoot-activities/content-trouble.html)こともできます。
 
 Mbox Trace を有効にするには、開いている Chrome タブで Experience Cloud への認証をおこなう必要があります。有効にすると、Adobe ID ユーザー名が表示されます。ユーザー名を展開して、アクセス権を持つ Experience Cloud 組織に関連付けられた Target クライアントコードを表示します。Mbox Trace を有効にするクライアントコードをクリックして、緑にチェックマークが表示されていることを確認します。Mbox Trace 情報を持つすべての Target リクエストが、クライアントコードでグループ化されて表示されます。Mbox Trace 情報を調査するには、リクエストを展開してタブを確認します。
 
@@ -77,7 +77,7 @@ Mbox Trace を有効にするには、開いている Chrome タブで Experienc
 
 * リクエスト
 
-   [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) のリクエストタブは、メインのリクエストタブに似ています。リクエストヘッダーに加えて、Target リクエストによって渡されたすべてのパラメーターを表示できます。
+   [Mbox Trace](https://docs.adobe.com/content/help/ja-JP/target/using/activities/troubleshoot-activities/content-trouble.html) のリクエストタブは、メインのリクエストタブに似ています。リクエストヘッダーに加えて、Target リクエストによって渡されたすべてのパラメーターを表示できます。
 * プロファイル
 
    「プロファイルスナップショット」セクションを展開して、訪問者として Target プロファイルデータベースに格納されている[プロファイル情報](https://docs.adobe.com/content/help/ja-JP/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html)を確認します。すべての in-mbox およびスクリプトプロファイルが、一部のシステムプロファイルと共に、ここに表示されます。ステータス列には、プロファイルシステムを含むリクエストの前後の値と共に、このリクエストの範囲でどのプロファイルが変更したかを表示します。

@@ -6,17 +6,17 @@ exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
 source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 32%
+ht-degree: 35%
 
 ---
 
-# 「監査」タブ
+# 「Auditor」タブ
 
 Adobe Experience Platform Debugger で、 **[!UICONTROL Auditor]** タブを使用して、ページに対して一連の監査テストを実行します。
 
 この機能を使用するには：
 
-1. 選択 **[!UICONTROL Auditor]** をクリックします。
+1. 左側のナビゲーションの「**[!UICONTROL Auditor]**」を選択します。 
 1. **[!UICONTROL Run Auditor Tests]** を選択します。テストが完了すると、その結果は次のように表示されます。
 
 ![「Auditor」タブのテスト結果のスクリーンショット](../assets/auditor-results.png)

@@ -6,8 +6,8 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
 source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '727'
+ht-degree: 98%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-## バージョン 0.0.810 2019 年 3 月 6 日 {#topic-83bb7ddd68594177be9fd7826b650b80}
+## バージョン 0.0.810 2019 年 3 月 7 日 {#topic-83bb7ddd68594177be9fd7826b650b80}
 
 ## 新機能 {#section-0a2f6fcb0045464fa11f0586c69f7ffd}
 
